@@ -3,8 +3,8 @@
   "kind": "ingestion",
   "transactionId": "6fe8c0c2-faab-5532-ac71-6d288db4ce1d",
   "idempotencyHash": "6fe8c0c2faabe5322c716d288db4ce1d16ffb2f1e43512f7035b72eed1ec3eaa",
-  "revision": 3,
-  "state": "uploading",
+  "revision": 4,
+  "state": "staged",
   "sessionId": "6fe8c0c2-faab-5532-ac71-6d288db4ce1d",
   "releaseId": 383743762,
   "releaseTag": "audio-session-6fe8c0c2-faab-5532-ac71-6d288db4ce1d",
@@ -60,7 +60,83 @@
       "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-6fe8c0c2-faab-5532-ac71-6d288db4ce1d/blob-14006e21-4079-802d-be3a-8fe65e170925-part-0002.bin"
     }
   ],
-  "stagedManifest": null,
+  "stagedManifest": {
+    "schemaVersion": 1,
+    "revision": 1,
+    "id": "6fe8c0c2-faab-5532-ac71-6d288db4ce1d",
+    "title": "S08A disposable production smoke 2026-09-06T23:02:43.523Z",
+    "recordedAt": null,
+    "createdAt": "2026-09-06T23:02:46.018Z",
+    "updatedAt": "2026-09-06T23:32:03.033Z",
+    "origin": {
+      "kind": "device",
+      "externalId": null
+    },
+    "storage": {
+      "releaseId": 383743762,
+      "tag": "audio-session-6fe8c0c2-faab-5532-ac71-6d288db4ce1d"
+    },
+    "lifecycle": {
+      "state": "incoming"
+    },
+    "sourceState": "available",
+    "sourceTracks": [
+      {
+        "trackId": "817624fc-22cd-8154-8e6b-1232e02e5cb8",
+        "blobId": "14006e21-4079-802d-be3a-8fe65e170925",
+        "ordinal": 1,
+        "originalName": "s08a-production-smoke.wav",
+        "mediaType": "audio/wav",
+        "sizeBytes": 16781312,
+        "sha256": "57b6885608e0d417c476471e49306cc7d8f10b1359159138e689c1e378feaae0",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 16777216,
+            "sha256": "d81c06c593dbffbd3c7401cfd7a6d7f7b1fc9cc8116042cf7566ebd7d0b30d8b",
+            "assetName": "blob-14006e21-4079-802d-be3a-8fe65e170925-part-0001.bin",
+            "assetId": 547791001,
+            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-6fe8c0c2-faab-5532-ac71-6d288db4ce1d/blob-14006e21-4079-802d-be3a-8fe65e170925-part-0001.bin"
+          },
+          {
+            "partNumber": 2,
+            "sizeBytes": 4096,
+            "sha256": "ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7",
+            "assetName": "blob-14006e21-4079-802d-be3a-8fe65e170925-part-0002.bin",
+            "assetId": 547816284,
+            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-6fe8c0c2-faab-5532-ac71-6d288db4ce1d/blob-14006e21-4079-802d-be3a-8fe65e170925-part-0002.bin"
+          }
+        ]
+      }
+    ],
+    "deletedSources": null,
+    "workflows": {
+      "announcement": {
+        "workflow": "announcement",
+        "status": "new",
+        "currentDraft": null,
+        "outputs": [],
+        "deletedVersions": [],
+        "nextVersion": 1
+      },
+      "speaker": {
+        "workflow": "speaker",
+        "status": "new",
+        "currentDraft": null,
+        "outputs": [],
+        "deletedVersions": [],
+        "nextVersion": 1
+      }
+    },
+    "relations": {
+      "supersedesSessionId": null,
+      "supersededBySessionId": null
+    },
+    "transaction": {
+      "state": "finalized",
+      "id": "6fe8c0c2-faab-5532-ac71-6d288db4ce1d"
+    }
+  },
   "createdAt": "2026-09-06T23:02:46.018Z",
-  "updatedAt": "2026-09-06T23:31:59.271Z"
+  "updatedAt": "2026-09-06T23:32:03.033Z"
 }
