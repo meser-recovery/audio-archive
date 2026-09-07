@@ -3,8 +3,8 @@
   "kind": "ingestion",
   "transactionId": "96f19037-7326-556e-be64-1ec45c7b3cc0",
   "idempotencyHash": "96f190377326456efe641ec45c7b3cc03fe3d470334c113adfa428d1c330c368",
-  "revision": 2,
-  "state": "uploading",
+  "revision": 3,
+  "state": "staged",
   "sessionId": "96f19037-7326-556e-be64-1ec45c7b3cc0",
   "releaseId": 384205865,
   "releaseTag": "audio-session-96f19037-7326-556e-be64-1ec45c7b3cc0",
@@ -45,7 +45,75 @@
       "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-96f19037-7326-556e-be64-1ec45c7b3cc0/blob-98752977-5f0a-8714-ba0c-eaf357c24e35-part-0001.bin"
     }
   ],
-  "stagedManifest": null,
+  "stagedManifest": {
+    "schemaVersion": 1,
+    "revision": 1,
+    "id": "96f19037-7326-556e-be64-1ec45c7b3cc0",
+    "title": "S08B production acceptance fixture 2026-09-07",
+    "recordedAt": null,
+    "createdAt": "2026-09-07T16:12:15.275Z",
+    "updatedAt": "2026-09-07T16:12:23.364Z",
+    "origin": {
+      "kind": "manual",
+      "externalId": null
+    },
+    "storage": {
+      "releaseId": 384205865,
+      "tag": "audio-session-96f19037-7326-556e-be64-1ec45c7b3cc0"
+    },
+    "lifecycle": {
+      "state": "incoming"
+    },
+    "sourceState": "available",
+    "sourceTracks": [
+      {
+        "trackId": "6c732dde-00a1-8aa9-9f9f-03a7b8310368",
+        "blobId": "98752977-5f0a-8714-ba0c-eaf357c24e35",
+        "ordinal": 1,
+        "originalName": "s08b-production-acceptance-20260907.wav",
+        "mediaType": "audio/wav",
+        "sizeBytes": 396944,
+        "sha256": "cf981fce1ed1f2f706a0ee8c454b183ed56f728ebcd6a48f584f4cdd889e339f",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 396944,
+            "sha256": "cf981fce1ed1f2f706a0ee8c454b183ed56f728ebcd6a48f584f4cdd889e339f",
+            "assetName": "blob-98752977-5f0a-8714-ba0c-eaf357c24e35-part-0001.bin",
+            "assetId": 549050329,
+            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-96f19037-7326-556e-be64-1ec45c7b3cc0/blob-98752977-5f0a-8714-ba0c-eaf357c24e35-part-0001.bin"
+          }
+        ]
+      }
+    ],
+    "deletedSources": null,
+    "workflows": {
+      "announcement": {
+        "workflow": "announcement",
+        "status": "new",
+        "currentDraft": null,
+        "outputs": [],
+        "deletedVersions": [],
+        "nextVersion": 1
+      },
+      "speaker": {
+        "workflow": "speaker",
+        "status": "new",
+        "currentDraft": null,
+        "outputs": [],
+        "deletedVersions": [],
+        "nextVersion": 1
+      }
+    },
+    "relations": {
+      "supersedesSessionId": null,
+      "supersededBySessionId": null
+    },
+    "transaction": {
+      "state": "finalized",
+      "id": "96f19037-7326-556e-be64-1ec45c7b3cc0"
+    }
+  },
   "createdAt": "2026-09-07T16:12:15.275Z",
-  "updatedAt": "2026-09-07T16:12:19.640Z"
+  "updatedAt": "2026-09-07T16:12:23.364Z"
 }
