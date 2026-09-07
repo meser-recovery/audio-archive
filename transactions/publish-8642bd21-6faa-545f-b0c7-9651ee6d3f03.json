@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "kind": "publication",
+  "transactionId": "8642bd21-6faa-545f-b0c7-9651ee6d3f03",
+  "idempotencyHash": "bf1c8cc639bc59f302da5d1cafcd5ceed1741daf6d3788499795bcc81bf03335",
+  "requestFingerprint": "a7620be52e9d9f1cd685b066cf6e297511d6d998ef1e21c24119687519723f13",
+  "revision": 1,
+  "state": "uploading",
+  "sessionId": "96f19037-7326-556e-be64-1ec45c7b3cc0",
+  "workflow": "announcement",
+  "outputId": "90343178-0542-8fe9-af75-4c56d52cdf21",
+  "blobId": "3d09f46a-129f-849a-ad2e-2f2680538f1c",
+  "expectedRevision": 2,
+  "reservedSessionRevision": 3,
+  "reservedVersion": 1,
+  "releaseId": 384205865,
+  "releaseTag": "audio-session-96f19037-7326-556e-be64-1ec45c7b3cc0",
+  "plan": {
+    "outputId": "90343178-0542-8fe9-af75-4c56d52cdf21",
+    "blobId": "3d09f46a-129f-849a-ad2e-2f2680538f1c",
+    "processorVersion": "s07-v1",
+    "sizeBytes": 38914,
+    "sha256": "2e550bf686ee31815043d0f1a8f554596dec7f62cfeb13a6d2b3dca304d4a7a8",
+    "parts": [
+      {
+        "partNumber": 1,
+        "sizeBytes": 38914,
+        "sha256": "2e550bf686ee31815043d0f1a8f554596dec7f62cfeb13a6d2b3dca304d4a7a8",
+        "assetName": "blob-3d09f46a-129f-849a-ad2e-2f2680538f1c-part-0001.bin"
+      }
+    ],
+    "recipe": {
+      "sourceSessionRevision": 2,
+      "sources": [
+        {
+          "trackId": "6c732dde-00a1-8aa9-9f9f-03a7b8310368",
+          "blobId": "98752977-5f0a-8714-ba0c-eaf357c24e35",
+          "ordinal": 1,
+          "sizeBytes": 396944,
+          "sha256": "cf981fce1ed1f2f706a0ee8c454b183ed56f728ebcd6a48f584f4cdd889e339f",
+          "mediaType": "audio/wav"
+        }
+      ],
+      "draft": {
+        "revision": 1,
+        "payloadSchema": "announcement/v1",
+        "payload": {
+          "trackIds": [
+            "6c732dde-00a1-8aa9-9f9f-03a7b8310368"
+          ]
+        }
+      },
+      "processing": {
+        "mode": "processed_single",
+        "silenceThresholdDb": -45,
+        "minimumSilenceSeconds": 2,
+        "retainedSilenceSeconds": 0.35,
+        "detectedIntervals": [
+          [
+            0.999932,
+            3.50007
+          ]
+        ],
+        "removalRanges": [
+          [
+            1.174932,
+            3.32507
+          ]
+        ],
+        "mix": null,
+        "limiter": null,
+        "codec": {
+          "name": "libmp3lame",
+          "bitrate": "128k"
+        }
+      },
+      "result": {
+        "mediaType": "audio/mpeg",
+        "presentationFilename": "s08b-production-acceptance-20260907-edited.mp3",
+        "sizeBytes": 38914,
+        "sha256": "2e550bf686ee31815043d0f1a8f554596dec7f62cfeb13a6d2b3dca304d4a7a8",
+        "originalDurationSeconds": 4.5,
+        "resultDurationSeconds": 2.352154,
+        "removedDurationSeconds": 2.147846,
+        "pauseCount": 1
+      }
+    }
+  },
+  "uploadedParts": [],
+  "recipeSnapshot": {
+    "schemaVersion": 1,
+    "workflow": "announcement",
+    "sessionId": "96f19037-7326-556e-be64-1ec45c7b3cc0",
+    "outputId": "90343178-0542-8fe9-af75-4c56d52cdf21",
+    "version": 1,
+    "processorVersion": "s07-v1",
+    "createdAt": "2026-09-07T16:14:13.682Z",
+    "sourceSessionRevision": 2,
+    "sources": [
+      {
+        "trackId": "6c732dde-00a1-8aa9-9f9f-03a7b8310368",
+        "blobId": "98752977-5f0a-8714-ba0c-eaf357c24e35",
+        "ordinal": 1,
+        "sizeBytes": 396944,
+        "sha256": "cf981fce1ed1f2f706a0ee8c454b183ed56f728ebcd6a48f584f4cdd889e339f",
+        "mediaType": "audio/wav"
+      }
+    ],
+    "draft": {
+      "revision": 1,
+      "payloadSchema": "announcement/v1",
+      "payload": {
+        "trackIds": [
+          "6c732dde-00a1-8aa9-9f9f-03a7b8310368"
+        ]
+      }
+    },
+    "processing": {
+      "mode": "processed_single",
+      "silenceThresholdDb": -45,
+      "minimumSilenceSeconds": 2,
+      "retainedSilenceSeconds": 0.35,
+      "detectedIntervals": [
+        [
+          0.999932,
+          3.50007
+        ]
+      ],
+      "removalRanges": [
+        [
+          1.174932,
+          3.32507
+        ]
+      ],
+      "mix": null,
+      "limiter": null,
+      "codec": {
+        "name": "libmp3lame",
+        "bitrate": "128k"
+      }
+    },
+    "result": {
+      "mediaType": "audio/mpeg",
+      "presentationFilename": "s08b-production-acceptance-20260907-edited.mp3",
+      "sizeBytes": 38914,
+      "sha256": "2e550bf686ee31815043d0f1a8f554596dec7f62cfeb13a6d2b3dca304d4a7a8",
+      "originalDurationSeconds": 4.5,
+      "resultDurationSeconds": 2.352154,
+      "removedDurationSeconds": 2.147846,
+      "pauseCount": 1
+    }
+  },
+  "outputDescriptor": null,
+  "failure": null,
+  "createdAt": "2026-09-07T16:14:13.682Z",
+  "updatedAt": "2026-09-07T16:14:13.682Z"
+}

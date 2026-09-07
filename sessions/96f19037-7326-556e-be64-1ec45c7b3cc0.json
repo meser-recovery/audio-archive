@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 2,
+  "revision": 3,
   "id": "96f19037-7326-556e-be64-1ec45c7b3cc0",
   "title": "S08B production acceptance fixture 2026-09-07",
   "recordedAt": null,
   "createdAt": "2026-09-07T16:12:15.275Z",
-  "updatedAt": "2026-09-07T16:13:36.022Z",
+  "updatedAt": "2026-09-07T16:14:13.682Z",
   "origin": {
     "kind": "manual",
     "externalId": null
@@ -50,7 +50,7 @@
       },
       "outputs": [],
       "deletedVersions": [],
-      "nextVersion": 1
+      "nextVersion": 2
     },
     "speaker": {
       "workflow": "speaker",
