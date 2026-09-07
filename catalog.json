@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "updatedAt": "2026-09-06T23:32:07.128Z",
+  "revision": 2,
+  "updatedAt": "2026-09-07T16:12:27.703Z",
   "entries": [
     {
       "id": "6fe8c0c2-faab-5532-ac71-6d288db4ce1d",
@@ -10,6 +10,20 @@
       "createdAt": "2026-09-06T23:02:46.018Z",
       "updatedAt": "2026-09-06T23:32:03.033Z",
       "origin": "device",
+      "lifecycle": "incoming",
+      "sourceState": "available",
+      "workflows": {
+        "announcement": "new",
+        "speaker": "new"
+      }
+    },
+    {
+      "id": "96f19037-7326-556e-be64-1ec45c7b3cc0",
+      "title": "S08B production acceptance fixture 2026-09-07",
+      "recordedAt": null,
+      "createdAt": "2026-09-07T16:12:15.275Z",
+      "updatedAt": "2026-09-07T16:12:23.364Z",
+      "origin": "manual",
       "lifecycle": "incoming",
       "sourceState": "available",
       "workflows": {
