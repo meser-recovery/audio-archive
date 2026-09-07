@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
+  "revision": 2,
   "id": "96f19037-7326-556e-be64-1ec45c7b3cc0",
   "title": "S08B production acceptance fixture 2026-09-07",
   "recordedAt": null,
   "createdAt": "2026-09-07T16:12:15.275Z",
-  "updatedAt": "2026-09-07T16:12:23.364Z",
+  "updatedAt": "2026-09-07T16:13:36.022Z",
   "origin": {
     "kind": "manual",
     "externalId": null
@@ -43,8 +43,11 @@
   "workflows": {
     "announcement": {
       "workflow": "announcement",
-      "status": "new",
-      "currentDraft": null,
+      "status": "in_progress",
+      "currentDraft": {
+        "path": "drafts/96f19037-7326-556e-be64-1ec45c7b3cc0/announcement.json",
+        "revision": 1
+      },
       "outputs": [],
       "deletedVersions": [],
       "nextVersion": 1
