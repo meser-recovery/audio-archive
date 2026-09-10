@@ -1,21 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 7,
-  "updatedAt": "2026-09-10T00:33:10.293Z",
-  "entries": [
-    {
-      "id": "6fe8c0c2-faab-5532-ac71-6d288db4ce1d",
-      "title": "S08A disposable production smoke 2026-09-06T23:02:43.523Z",
-      "recordedAt": null,
-      "createdAt": "2026-09-06T23:02:46.018Z",
-      "updatedAt": "2026-09-06T23:32:03.033Z",
-      "origin": "device",
-      "lifecycle": "incoming",
-      "sourceState": "available",
-      "workflows": {
-        "announcement": "new",
-        "speaker": "new"
-      }
-    }
-  ]
+  "revision": 8,
+  "updatedAt": "2026-09-10T00:33:43.500Z",
+  "entries": []
 }

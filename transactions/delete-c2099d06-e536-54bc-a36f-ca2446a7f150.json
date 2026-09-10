@@ -3,8 +3,8 @@
   "kind": "pending_delete",
   "transactionId": "c2099d06-e536-54bc-a36f-ca2446a7f150",
   "idempotencyHash": "65ce3a8319ccff5e9ace744a72650cb8774a0fb1622b89a20a971283936caefb",
-  "revision": 1,
-  "state": "pending_delete",
+  "revision": 2,
+  "state": "complete",
   "sessionId": "6fe8c0c2-faab-5532-ac71-6d288db4ce1d",
   "expectedRevision": 1,
   "releaseId": 383743762,
@@ -15,5 +15,5 @@
   "assetIds": [],
   "deletedAssetIds": [],
   "createdAt": "2026-09-10T00:33:38.933Z",
-  "updatedAt": "2026-09-10T00:33:38.933Z"
+  "updatedAt": "2026-09-10T00:33:43.500Z"
 }
