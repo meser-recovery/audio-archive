@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "pending_delete",
+  "transactionId": "ee946520-f897-55f6-bf1b-00c612297193",
+  "idempotencyHash": "aeb488fd0cd2ddd63a2351cc9e3efc2cd8b4c5236bf2015a715924df31e3ea39",
+  "revision": 1,
+  "state": "pending_delete",
+  "sessionId": "96f19037-7326-556e-be64-1ec45c7b3cc0",
+  "expectedRevision": 4,
+  "releaseId": 384205865,
+  "releaseTag": "audio-session-96f19037-7326-556e-be64-1ec45c7b3cc0",
+  "action": {
+    "kind": "output-version",
+    "workflow": "announcement",
+    "version": 1
+  },
+  "assetIds": [
+    549053357
+  ],
+  "deletedAssetIds": [],
+  "createdAt": "2026-09-10T00:31:41.649Z",
+  "updatedAt": "2026-09-10T00:31:41.649Z"
+}
