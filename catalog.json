@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 6,
-  "updatedAt": "2026-09-10T00:31:48.299Z",
+  "revision": 7,
+  "updatedAt": "2026-09-10T00:33:10.293Z",
   "entries": [
     {
       "id": "6fe8c0c2-faab-5532-ac71-6d288db4ce1d",
@@ -14,20 +14,6 @@
       "sourceState": "available",
       "workflows": {
         "announcement": "new",
-        "speaker": "new"
-      }
-    },
-    {
-      "id": "96f19037-7326-556e-be64-1ec45c7b3cc0",
-      "title": "S08B production acceptance fixture 2026-09-07",
-      "recordedAt": null,
-      "createdAt": "2026-09-07T16:12:15.275Z",
-      "updatedAt": "2026-09-10T00:31:48.291Z",
-      "origin": "manual",
-      "lifecycle": "incoming",
-      "sourceState": "available",
-      "workflows": {
-        "announcement": "in_progress",
         "speaker": "new"
       }
     }
