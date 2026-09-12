@@ -3,8 +3,8 @@
   "kind": "ingestion",
   "transactionId": "27fbac69-6039-58c7-8a67-b1f22f5f4cc2",
   "idempotencyHash": "27fbac69603938c70a67b1f22f5f4cc23a81e46a6519984f0ddd89a6fa0a5111",
-  "revision": 6,
-  "state": "staged",
+  "revision": 7,
+  "state": "finalized",
   "sessionId": "27fbac69-6039-58c7-8a67-b1f22f5f4cc2",
   "releaseId": 387704507,
   "releaseTag": "audio-session-27fbac69-6039-58c7-8a67-b1f22f5f4cc2",
@@ -112,121 +112,7 @@
       "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-27fbac69-6039-58c7-8a67-b1f22f5f4cc2/blob-ef1dd5ba-0521-8e6e-88a9-ddea42e1f0de-part-0002.bin"
     }
   ],
-  "stagedManifest": {
-    "schemaVersion": 1,
-    "revision": 1,
-    "id": "27fbac69-6039-58c7-8a67-b1f22f5f4cc2",
-    "title": "Яаков",
-    "recordedAt": "2026-07-31T18:00:00.000Z",
-    "createdAt": "2026-09-12T21:09:49.336Z",
-    "updatedAt": "2026-09-12T21:10:51.736Z",
-    "origin": {
-      "kind": "device",
-      "externalId": null
-    },
-    "storage": {
-      "releaseId": 387704507,
-      "tag": "audio-session-27fbac69-6039-58c7-8a67-b1f22f5f4cc2"
-    },
-    "lifecycle": {
-      "state": "incoming"
-    },
-    "sourceState": "available",
-    "sourceTracks": [
-      {
-        "trackId": "e84275bf-7bae-8191-a855-bc9aa42a277d",
-        "blobId": "b699b3cc-86a5-8e56-ae18-8b812b69eed2",
-        "ordinal": 1,
-        "originalName": "audioAlex11375775095.m4a",
-        "mediaType": "audio/mp4",
-        "sizeBytes": 13395629,
-        "sha256": "d90fd2f72ab665f71a338a71f79a293eb7c17b53479c64df281c84aff23b863e",
-        "parts": [
-          {
-            "partNumber": 1,
-            "sizeBytes": 13395629,
-            "sha256": "d90fd2f72ab665f71a338a71f79a293eb7c17b53479c64df281c84aff23b863e",
-            "assetName": "blob-b699b3cc-86a5-8e56-ae18-8b812b69eed2-part-0001.bin",
-            "assetId": 559961945,
-            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-27fbac69-6039-58c7-8a67-b1f22f5f4cc2/blob-b699b3cc-86a5-8e56-ae18-8b812b69eed2-part-0001.bin"
-          }
-        ]
-      },
-      {
-        "trackId": "d38ecbb6-016a-865a-a7fe-7915652a1cb2",
-        "blobId": "330363c6-017a-8c4a-a513-ae8b93e077e1",
-        "ordinal": 2,
-        "originalName": "audioZhenya-31375775095.m4a",
-        "mediaType": "audio/mp4",
-        "sizeBytes": 15010632,
-        "sha256": "9fd4ae03e9b59db1a54a397a360da39c401bd87a3bd371a37ce4e079e272152d",
-        "parts": [
-          {
-            "partNumber": 1,
-            "sizeBytes": 15010632,
-            "sha256": "9fd4ae03e9b59db1a54a397a360da39c401bd87a3bd371a37ce4e079e272152d",
-            "assetName": "blob-330363c6-017a-8c4a-a513-ae8b93e077e1-part-0001.bin",
-            "assetId": 559962116,
-            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-27fbac69-6039-58c7-8a67-b1f22f5f4cc2/blob-330363c6-017a-8c4a-a513-ae8b93e077e1-part-0001.bin"
-          }
-        ]
-      },
-      {
-        "trackId": "1efd0bd4-f919-8ca3-85b5-192bfcbb46e7",
-        "blobId": "ef1dd5ba-0521-8e6e-88a9-ddea42e1f0de",
-        "ordinal": 3,
-        "originalName": "audioיעקב41375775095.m4a",
-        "mediaType": "audio/mp4",
-        "sizeBytes": 23022698,
-        "sha256": "df7e5d899efad8e5314110efaeb9263283d55fba6723bc30f760f7c1c46fa3a0",
-        "parts": [
-          {
-            "partNumber": 1,
-            "sizeBytes": 16777216,
-            "sha256": "69c24ea5ec61e1aa4f6cfd680362116ba970dda98d3948a767200c0d23d5e8b3",
-            "assetName": "blob-ef1dd5ba-0521-8e6e-88a9-ddea42e1f0de-part-0001.bin",
-            "assetId": 559962309,
-            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-27fbac69-6039-58c7-8a67-b1f22f5f4cc2/blob-ef1dd5ba-0521-8e6e-88a9-ddea42e1f0de-part-0001.bin"
-          },
-          {
-            "partNumber": 2,
-            "sizeBytes": 6245482,
-            "sha256": "acea0855890284fe82805d49f8cc7118049577c08c82a449ec264c8e8890ec75",
-            "assetName": "blob-ef1dd5ba-0521-8e6e-88a9-ddea42e1f0de-part-0002.bin",
-            "assetId": 559962484,
-            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-27fbac69-6039-58c7-8a67-b1f22f5f4cc2/blob-ef1dd5ba-0521-8e6e-88a9-ddea42e1f0de-part-0002.bin"
-          }
-        ]
-      }
-    ],
-    "deletedSources": null,
-    "workflows": {
-      "announcement": {
-        "workflow": "announcement",
-        "status": "new",
-        "currentDraft": null,
-        "outputs": [],
-        "deletedVersions": [],
-        "nextVersion": 1
-      },
-      "speaker": {
-        "workflow": "speaker",
-        "status": "new",
-        "currentDraft": null,
-        "outputs": [],
-        "deletedVersions": [],
-        "nextVersion": 1
-      }
-    },
-    "relations": {
-      "supersedesSessionId": null,
-      "supersededBySessionId": null
-    },
-    "transaction": {
-      "state": "finalized",
-      "id": "27fbac69-6039-58c7-8a67-b1f22f5f4cc2"
-    }
-  },
+  "stagedManifest": null,
   "createdAt": "2026-09-12T21:09:49.336Z",
-  "updatedAt": "2026-09-12T21:10:51.736Z"
+  "updatedAt": "2026-09-12T21:10:55.763Z"
 }
