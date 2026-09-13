@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "revision": 18,
-  "updatedAt": "2026-09-13T19:18:15.670Z",
+  "revision": 19,
+  "updatedAt": "2026-09-13T19:22:11.619Z",
   "entries": [
     {
       "id": "c180c34e-7219-52f6-8808-3536b0af8621",
       "title": "Яаков",
       "recordedAt": "2026-07-31T17:00:00.000Z",
       "createdAt": "2026-09-13T18:51:24.872Z",
-      "updatedAt": "2026-09-13T19:18:15.437Z",
+      "updatedAt": "2026-09-13T19:22:11.355Z",
       "origin": "device",
       "lifecycle": "incoming",
       "sourceState": "available",
       "workflows": {
         "announcement": "result_ready",
-        "speaker": "in_progress"
+        "speaker": "result_ready"
       }
     }
   ]
