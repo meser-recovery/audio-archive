@@ -4,7 +4,7 @@
   "transactionId": "e6b60e54-554a-5b53-88ed-aebc60359ad0",
   "idempotencyHash": "86bce169f3f6909cef91b04ab6a1d73534dd04f6c0d8e4be217b8f506341ded8",
   "requestFingerprint": "e32cd2f13bc8cd6cf8875a9f93ae3d537d035e0f442cbcecfeec4dca7634b702",
-  "revision": 1,
+  "revision": 2,
   "state": "uploading",
   "sessionId": "c180c34e-7219-52f6-8808-3536b0af8621",
   "workflow": "speaker",
@@ -217,7 +217,17 @@
       }
     }
   },
-  "uploadedParts": [],
+  "uploadedParts": [
+    {
+      "blobId": "925670cf-1817-835e-a475-8e712572054a",
+      "partNumber": 1,
+      "assetName": "blob-925670cf-1817-835e-a475-8e712572054a-part-0001.bin",
+      "sizeBytes": 16777216,
+      "sha256": "17edcdd6f63310dd5e74ad4eb505be2f5bbd51d4f5c6342224b2c74aa294cc78",
+      "assetId": 561775675,
+      "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-c180c34e-7219-52f6-8808-3536b0af8621/blob-925670cf-1817-835e-a475-8e712572054a-part-0001.bin"
+    }
+  ],
   "recipeSnapshot": {
     "schemaVersion": 1,
     "workflow": "speaker",
@@ -397,5 +407,5 @@
   "outputDescriptor": null,
   "failure": null,
   "createdAt": "2026-09-13T19:18:15.437Z",
-  "updatedAt": "2026-09-13T19:18:15.437Z"
+  "updatedAt": "2026-09-13T19:18:26.361Z"
 }
