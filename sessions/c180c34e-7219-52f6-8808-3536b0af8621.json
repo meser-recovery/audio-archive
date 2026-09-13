@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
+  "revision": 5,
   "id": "c180c34e-7219-52f6-8808-3536b0af8621",
   "title": "Яаков",
   "recordedAt": "2026-07-31T17:00:00.000Z",
   "createdAt": "2026-09-13T18:51:24.872Z",
-  "updatedAt": "2026-09-13T19:12:18.128Z",
+  "updatedAt": "2026-09-13T19:17:56.874Z",
   "origin": {
     "kind": "device",
     "externalId": null
@@ -130,8 +130,11 @@
     },
     "speaker": {
       "workflow": "speaker",
-      "status": "new",
-      "currentDraft": null,
+      "status": "in_progress",
+      "currentDraft": {
+        "path": "drafts/c180c34e-7219-52f6-8808-3536b0af8621/speaker.json",
+        "revision": 1
+      },
       "outputs": [],
       "deletedVersions": [],
       "nextVersion": 1
