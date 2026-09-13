@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 14,
-  "updatedAt": "2026-09-13T19:11:23.975Z",
+  "revision": 15,
+  "updatedAt": "2026-09-13T19:11:33.350Z",
   "entries": [
     {
       "id": "c180c34e-7219-52f6-8808-3536b0af8621",
       "title": "Яаков",
       "recordedAt": "2026-07-31T17:00:00.000Z",
       "createdAt": "2026-09-13T18:51:24.872Z",
-      "updatedAt": "2026-09-13T19:11:23.973Z",
+      "updatedAt": "2026-09-13T19:11:33.138Z",
       "origin": "device",
       "lifecycle": "incoming",
       "sourceState": "available",
