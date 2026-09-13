@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 5,
+  "revision": 6,
   "id": "c180c34e-7219-52f6-8808-3536b0af8621",
   "title": "Яаков",
   "recordedAt": "2026-07-31T17:00:00.000Z",
   "createdAt": "2026-09-13T18:51:24.872Z",
-  "updatedAt": "2026-09-13T19:17:56.874Z",
+  "updatedAt": "2026-09-13T19:18:15.437Z",
   "origin": {
     "kind": "device",
     "externalId": null
@@ -137,7 +137,7 @@
       },
       "outputs": [],
       "deletedVersions": [],
-      "nextVersion": 1
+      "nextVersion": 2
     }
   },
   "relations": {

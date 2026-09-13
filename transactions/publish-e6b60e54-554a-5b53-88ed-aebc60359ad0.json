@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 1,
+  "kind": "publication",
+  "transactionId": "e6b60e54-554a-5b53-88ed-aebc60359ad0",
+  "idempotencyHash": "86bce169f3f6909cef91b04ab6a1d73534dd04f6c0d8e4be217b8f506341ded8",
+  "requestFingerprint": "e32cd2f13bc8cd6cf8875a9f93ae3d537d035e0f442cbcecfeec4dca7634b702",
+  "revision": 1,
+  "state": "uploading",
+  "sessionId": "c180c34e-7219-52f6-8808-3536b0af8621",
+  "workflow": "speaker",
+  "outputId": "6e0cf3aa-8216-89bb-b19c-de5d00cc0f3f",
+  "blobId": "925670cf-1817-835e-a475-8e712572054a",
+  "expectedRevision": 5,
+  "reservedSessionRevision": 6,
+  "reservedVersion": 1,
+  "releaseId": 387999219,
+  "releaseTag": "audio-session-c180c34e-7219-52f6-8808-3536b0af8621",
+  "plan": {
+    "outputId": "6e0cf3aa-8216-89bb-b19c-de5d00cc0f3f",
+    "blobId": "925670cf-1817-835e-a475-8e712572054a",
+    "processorVersion": "speaker-editor-v1",
+    "sizeBytes": 57461514,
+    "sha256": "636cc864da52855ba0d7363805dacfc5bbfd38db85c5eb3a6552f0c6eb4321f3",
+    "parts": [
+      {
+        "partNumber": 1,
+        "sizeBytes": 16777216,
+        "sha256": "17edcdd6f63310dd5e74ad4eb505be2f5bbd51d4f5c6342224b2c74aa294cc78",
+        "assetName": "blob-925670cf-1817-835e-a475-8e712572054a-part-0001.bin"
+      },
+      {
+        "partNumber": 2,
+        "sizeBytes": 16777216,
+        "sha256": "132495831a76d53fe4bfbd98fa1d515bf0ffbd95da64451bfdbecf2393e0ca48",
+        "assetName": "blob-925670cf-1817-835e-a475-8e712572054a-part-0002.bin"
+      },
+      {
+        "partNumber": 3,
+        "sizeBytes": 16777216,
+        "sha256": "b69068aeea4e1c0f548e21cb1d4f5aeaf7cba3c21ee4efb7a15218b79a924134",
+        "assetName": "blob-925670cf-1817-835e-a475-8e712572054a-part-0003.bin"
+      },
+      {
+        "partNumber": 4,
+        "sizeBytes": 7129866,
+        "sha256": "f6a095b47ce7bb9e779f55ca02f532f5b7b540227703a8685802a2eb480813a6",
+        "assetName": "blob-925670cf-1817-835e-a475-8e712572054a-part-0004.bin"
+      }
+    ],
+    "recipe": {
+      "renderedAt": "2026-09-13T19:16:34.515Z",
+      "sourceSessionRevision": 5,
+      "draft": {
+        "revision": 1,
+        "payloadSchema": "speaker/v1",
+        "payload": {
+          "trackIds": [
+            "5c839597-7cdd-8327-9d0b-bdff228d1412",
+            "b8c2a576-3845-832d-a4f6-8eda7c757976",
+            "1e091578-e128-8c7b-8ba3-ba891b8f2f95"
+          ],
+          "excludedTrackIds": [],
+          "globalCuts": [
+            {
+              "regionId": "ca11f147-433d-4e6f-8b3e-e24788340aac",
+              "startSeconds": 2684.565887,
+              "endSeconds": 2760.619649
+            },
+            {
+              "regionId": "85da9923-4c5b-4858-99fd-f6ee3cac6e37",
+              "startSeconds": 3667.329953,
+              "endSeconds": 3747.648
+            }
+          ],
+          "trackSilenceRegions": [
+            {
+              "regionId": "05acdfb2-3cd6-4773-8be9-ca3061a1972b",
+              "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+              "startSeconds": 1059.916869,
+              "endSeconds": 1139.157855
+            }
+          ],
+          "trackProcessing": [
+            {
+              "trackId": "5c839597-7cdd-8327-9d0b-bdff228d1412",
+              "enhancement": "off",
+              "leveling": "off",
+              "compression": "off"
+            },
+            {
+              "trackId": "b8c2a576-3845-832d-a4f6-8eda7c757976",
+              "enhancement": "off",
+              "leveling": "off",
+              "compression": "off"
+            },
+            {
+              "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+              "enhancement": "off",
+              "leveling": "off",
+              "compression": "off"
+            }
+          ]
+        }
+      },
+      "sources": [
+        {
+          "trackId": "5c839597-7cdd-8327-9d0b-bdff228d1412",
+          "blobId": "839fd68b-de7f-84c7-b3db-d9df576d4e75",
+          "ordinal": 1,
+          "originalFilename": "audioAlex11375775095.m4a",
+          "mediaType": "audio/mp4",
+          "sizeBytes": 13395629,
+          "sha256": "d90fd2f72ab665f71a338a71f79a293eb7c17b53479c64df281c84aff23b863e"
+        },
+        {
+          "trackId": "b8c2a576-3845-832d-a4f6-8eda7c757976",
+          "blobId": "1d66886d-77b2-8a83-b4a5-82e532254e74",
+          "ordinal": 2,
+          "originalFilename": "audioZhenya-31375775095.m4a",
+          "mediaType": "audio/mp4",
+          "sizeBytes": 15010632,
+          "sha256": "9fd4ae03e9b59db1a54a397a360da39c401bd87a3bd371a37ce4e079e272152d"
+        },
+        {
+          "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+          "blobId": "e4aeda88-fa30-8005-a9ac-cfe0ef850b85",
+          "ordinal": 3,
+          "originalFilename": "audioיעקב41375775095.m4a",
+          "mediaType": "audio/mp4",
+          "sizeBytes": 23022698,
+          "sha256": "df7e5d899efad8e5314110efaeb9263283d55fba6723bc30f760f7c1c46fa3a0"
+        }
+      ],
+      "editState": {
+        "orderedTrackIds": [
+          "5c839597-7cdd-8327-9d0b-bdff228d1412",
+          "b8c2a576-3845-832d-a4f6-8eda7c757976",
+          "1e091578-e128-8c7b-8ba3-ba891b8f2f95"
+        ],
+        "includedTrackIds": [
+          "5c839597-7cdd-8327-9d0b-bdff228d1412",
+          "b8c2a576-3845-832d-a4f6-8eda7c757976",
+          "1e091578-e128-8c7b-8ba3-ba891b8f2f95"
+        ],
+        "excludedTrackIds": [],
+        "globalCuts": [
+          {
+            "regionId": "ca11f147-433d-4e6f-8b3e-e24788340aac",
+            "startSeconds": 2684.565887,
+            "endSeconds": 2760.619649
+          },
+          {
+            "regionId": "85da9923-4c5b-4858-99fd-f6ee3cac6e37",
+            "startSeconds": 3667.329953,
+            "endSeconds": 3747.648
+          }
+        ],
+        "trackSilenceRegions": [
+          {
+            "regionId": "05acdfb2-3cd6-4773-8be9-ca3061a1972b",
+            "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+            "startSeconds": 1059.916869,
+            "endSeconds": 1139.157855
+          }
+        ],
+        "trackProcessing": [
+          {
+            "trackId": "5c839597-7cdd-8327-9d0b-bdff228d1412",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "b8c2a576-3845-832d-a4f6-8eda7c757976",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          }
+        ]
+      },
+      "renderer": {
+        "sampleRate": 48000,
+        "enhancement": "highpass=f=80,lowpass=f=16000",
+        "loudnorm": {
+          "integratedLufs": -19,
+          "truePeakDb": -3,
+          "loudnessRangeLufs": 11,
+          "measurements": []
+        },
+        "compression": {
+          "light": "acompressor=threshold=0.177828:ratio=2:attack=20:release=250:knee=2:makeup=1.25",
+          "medium": "acompressor=threshold=0.125893:ratio=3:attack=15:release=300:knee=2.5:makeup=1.5",
+          "strong": "acompressor=threshold=0.089125:ratio=4:attack=10:release=350:knee=3:makeup=1.75"
+        },
+        "mix": "amix=duration=longest:normalize=0",
+        "limiter": "alimiter=limit=0.95:level=0:latency=1",
+        "codec": {
+          "name": "libmp3lame",
+          "bitrate": "128k"
+        }
+      },
+      "candidateFingerprint": "368ea1d272c22c66b68e3c1a1eaa174fd81514ef06451ed58f509a29806f877a",
+      "result": {
+        "mediaType": "audio/mpeg",
+        "presentationFilename": "Яаков-speaker.mp3",
+        "sizeBytes": 57461514,
+        "sha256": "636cc864da52855ba0d7363805dacfc5bbfd38db85c5eb3a6552f0c6eb4321f3",
+        "originalDurationSeconds": 3747.648,
+        "resultDurationSeconds": 3591.28,
+        "globallyRemovedDurationSeconds": 156.371809
+      }
+    }
+  },
+  "uploadedParts": [],
+  "recipeSnapshot": {
+    "schemaVersion": 1,
+    "workflow": "speaker",
+    "sessionId": "c180c34e-7219-52f6-8808-3536b0af8621",
+    "outputId": "6e0cf3aa-8216-89bb-b19c-de5d00cc0f3f",
+    "version": 1,
+    "processorVersion": "speaker-editor-v1",
+    "createdAt": "2026-09-13T19:18:15.437Z",
+    "renderedAt": "2026-09-13T19:16:34.515Z",
+    "sourceSessionRevision": 5,
+    "draft": {
+      "revision": 1,
+      "payloadSchema": "speaker/v1",
+      "payload": {
+        "trackIds": [
+          "5c839597-7cdd-8327-9d0b-bdff228d1412",
+          "b8c2a576-3845-832d-a4f6-8eda7c757976",
+          "1e091578-e128-8c7b-8ba3-ba891b8f2f95"
+        ],
+        "excludedTrackIds": [],
+        "globalCuts": [
+          {
+            "regionId": "ca11f147-433d-4e6f-8b3e-e24788340aac",
+            "startSeconds": 2684.565887,
+            "endSeconds": 2760.619649
+          },
+          {
+            "regionId": "85da9923-4c5b-4858-99fd-f6ee3cac6e37",
+            "startSeconds": 3667.329953,
+            "endSeconds": 3747.648
+          }
+        ],
+        "trackSilenceRegions": [
+          {
+            "regionId": "05acdfb2-3cd6-4773-8be9-ca3061a1972b",
+            "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+            "startSeconds": 1059.916869,
+            "endSeconds": 1139.157855
+          }
+        ],
+        "trackProcessing": [
+          {
+            "trackId": "5c839597-7cdd-8327-9d0b-bdff228d1412",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "b8c2a576-3845-832d-a4f6-8eda7c757976",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          }
+        ]
+      }
+    },
+    "sources": [
+      {
+        "trackId": "5c839597-7cdd-8327-9d0b-bdff228d1412",
+        "blobId": "839fd68b-de7f-84c7-b3db-d9df576d4e75",
+        "ordinal": 1,
+        "originalFilename": "audioAlex11375775095.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 13395629,
+        "sha256": "d90fd2f72ab665f71a338a71f79a293eb7c17b53479c64df281c84aff23b863e"
+      },
+      {
+        "trackId": "b8c2a576-3845-832d-a4f6-8eda7c757976",
+        "blobId": "1d66886d-77b2-8a83-b4a5-82e532254e74",
+        "ordinal": 2,
+        "originalFilename": "audioZhenya-31375775095.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 15010632,
+        "sha256": "9fd4ae03e9b59db1a54a397a360da39c401bd87a3bd371a37ce4e079e272152d"
+      },
+      {
+        "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+        "blobId": "e4aeda88-fa30-8005-a9ac-cfe0ef850b85",
+        "ordinal": 3,
+        "originalFilename": "audioיעקב41375775095.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 23022698,
+        "sha256": "df7e5d899efad8e5314110efaeb9263283d55fba6723bc30f760f7c1c46fa3a0"
+      }
+    ],
+    "editState": {
+      "orderedTrackIds": [
+        "5c839597-7cdd-8327-9d0b-bdff228d1412",
+        "b8c2a576-3845-832d-a4f6-8eda7c757976",
+        "1e091578-e128-8c7b-8ba3-ba891b8f2f95"
+      ],
+      "includedTrackIds": [
+        "5c839597-7cdd-8327-9d0b-bdff228d1412",
+        "b8c2a576-3845-832d-a4f6-8eda7c757976",
+        "1e091578-e128-8c7b-8ba3-ba891b8f2f95"
+      ],
+      "excludedTrackIds": [],
+      "globalCuts": [
+        {
+          "regionId": "ca11f147-433d-4e6f-8b3e-e24788340aac",
+          "startSeconds": 2684.565887,
+          "endSeconds": 2760.619649
+        },
+        {
+          "regionId": "85da9923-4c5b-4858-99fd-f6ee3cac6e37",
+          "startSeconds": 3667.329953,
+          "endSeconds": 3747.648
+        }
+      ],
+      "trackSilenceRegions": [
+        {
+          "regionId": "05acdfb2-3cd6-4773-8be9-ca3061a1972b",
+          "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+          "startSeconds": 1059.916869,
+          "endSeconds": 1139.157855
+        }
+      ],
+      "trackProcessing": [
+        {
+          "trackId": "5c839597-7cdd-8327-9d0b-bdff228d1412",
+          "enhancement": "off",
+          "leveling": "off",
+          "compression": "off"
+        },
+        {
+          "trackId": "b8c2a576-3845-832d-a4f6-8eda7c757976",
+          "enhancement": "off",
+          "leveling": "off",
+          "compression": "off"
+        },
+        {
+          "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+          "enhancement": "off",
+          "leveling": "off",
+          "compression": "off"
+        }
+      ]
+    },
+    "renderer": {
+      "sampleRate": 48000,
+      "enhancement": "highpass=f=80,lowpass=f=16000",
+      "loudnorm": {
+        "integratedLufs": -19,
+        "truePeakDb": -3,
+        "loudnessRangeLufs": 11,
+        "measurements": []
+      },
+      "compression": {
+        "light": "acompressor=threshold=0.177828:ratio=2:attack=20:release=250:knee=2:makeup=1.25",
+        "medium": "acompressor=threshold=0.125893:ratio=3:attack=15:release=300:knee=2.5:makeup=1.5",
+        "strong": "acompressor=threshold=0.089125:ratio=4:attack=10:release=350:knee=3:makeup=1.75"
+      },
+      "mix": "amix=duration=longest:normalize=0",
+      "limiter": "alimiter=limit=0.95:level=0:latency=1",
+      "codec": {
+        "name": "libmp3lame",
+        "bitrate": "128k"
+      }
+    },
+    "candidateFingerprint": "368ea1d272c22c66b68e3c1a1eaa174fd81514ef06451ed58f509a29806f877a",
+    "result": {
+      "mediaType": "audio/mpeg",
+      "presentationFilename": "Яаков-speaker.mp3",
+      "sizeBytes": 57461514,
+      "sha256": "636cc864da52855ba0d7363805dacfc5bbfd38db85c5eb3a6552f0c6eb4321f3",
+      "originalDurationSeconds": 3747.648,
+      "resultDurationSeconds": 3591.28,
+      "globallyRemovedDurationSeconds": 156.371809
+    }
+  },
+  "outputDescriptor": null,
+  "failure": null,
+  "createdAt": "2026-09-13T19:18:15.437Z",
+  "updatedAt": "2026-09-13T19:18:15.437Z"
+}
