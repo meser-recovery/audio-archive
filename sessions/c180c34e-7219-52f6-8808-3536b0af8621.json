@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "id": "c180c34e-7219-52f6-8808-3536b0af8621",
+  "title": "Яаков",
+  "recordedAt": "2026-07-31T17:00:00.000Z",
+  "createdAt": "2026-09-13T18:51:24.872Z",
+  "updatedAt": "2026-09-13T18:51:58.875Z",
+  "origin": {
+    "kind": "device",
+    "externalId": null
+  },
+  "storage": {
+    "releaseId": 387999219,
+    "tag": "audio-session-c180c34e-7219-52f6-8808-3536b0af8621"
+  },
+  "lifecycle": {
+    "state": "incoming"
+  },
+  "sourceState": "available",
+  "sourceTracks": [
+    {
+      "trackId": "5c839597-7cdd-8327-9d0b-bdff228d1412",
+      "blobId": "839fd68b-de7f-84c7-b3db-d9df576d4e75",
+      "ordinal": 1,
+      "originalName": "audioAlex11375775095.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 13395629,
+      "sha256": "d90fd2f72ab665f71a338a71f79a293eb7c17b53479c64df281c84aff23b863e",
+      "parts": [
+        {
+          "partNumber": 1,
+          "sizeBytes": 13395629,
+          "sha256": "d90fd2f72ab665f71a338a71f79a293eb7c17b53479c64df281c84aff23b863e",
+          "assetName": "blob-839fd68b-de7f-84c7-b3db-d9df576d4e75-part-0001.bin",
+          "assetId": 561740238,
+          "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-c180c34e-7219-52f6-8808-3536b0af8621/blob-839fd68b-de7f-84c7-b3db-d9df576d4e75-part-0001.bin"
+        }
+      ]
+    },
+    {
+      "trackId": "b8c2a576-3845-832d-a4f6-8eda7c757976",
+      "blobId": "1d66886d-77b2-8a83-b4a5-82e532254e74",
+      "ordinal": 2,
+      "originalName": "audioZhenya-31375775095.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 15010632,
+      "sha256": "9fd4ae03e9b59db1a54a397a360da39c401bd87a3bd371a37ce4e079e272152d",
+      "parts": [
+        {
+          "partNumber": 1,
+          "sizeBytes": 15010632,
+          "sha256": "9fd4ae03e9b59db1a54a397a360da39c401bd87a3bd371a37ce4e079e272152d",
+          "assetName": "blob-1d66886d-77b2-8a83-b4a5-82e532254e74-part-0001.bin",
+          "assetId": 561740380,
+          "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-c180c34e-7219-52f6-8808-3536b0af8621/blob-1d66886d-77b2-8a83-b4a5-82e532254e74-part-0001.bin"
+        }
+      ]
+    },
+    {
+      "trackId": "1e091578-e128-8c7b-8ba3-ba891b8f2f95",
+      "blobId": "e4aeda88-fa30-8005-a9ac-cfe0ef850b85",
+      "ordinal": 3,
+      "originalName": "audioיעקב41375775095.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 23022698,
+      "sha256": "df7e5d899efad8e5314110efaeb9263283d55fba6723bc30f760f7c1c46fa3a0",
+      "parts": [
+        {
+          "partNumber": 1,
+          "sizeBytes": 16777216,
+          "sha256": "69c24ea5ec61e1aa4f6cfd680362116ba970dda98d3948a767200c0d23d5e8b3",
+          "assetName": "blob-e4aeda88-fa30-8005-a9ac-cfe0ef850b85-part-0001.bin",
+          "assetId": 561740524,
+          "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-c180c34e-7219-52f6-8808-3536b0af8621/blob-e4aeda88-fa30-8005-a9ac-cfe0ef850b85-part-0001.bin"
+        },
+        {
+          "partNumber": 2,
+          "sizeBytes": 6245482,
+          "sha256": "acea0855890284fe82805d49f8cc7118049577c08c82a449ec264c8e8890ec75",
+          "assetName": "blob-e4aeda88-fa30-8005-a9ac-cfe0ef850b85-part-0002.bin",
+          "assetId": 561740739,
+          "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-c180c34e-7219-52f6-8808-3536b0af8621/blob-e4aeda88-fa30-8005-a9ac-cfe0ef850b85-part-0002.bin"
+        }
+      ]
+    }
+  ],
+  "deletedSources": null,
+  "workflows": {
+    "announcement": {
+      "workflow": "announcement",
+      "status": "new",
+      "currentDraft": null,
+      "outputs": [],
+      "deletedVersions": [],
+      "nextVersion": 1
+    },
+    "speaker": {
+      "workflow": "speaker",
+      "status": "new",
+      "currentDraft": null,
+      "outputs": [],
+      "deletedVersions": [],
+      "nextVersion": 1
+    }
+  },
+  "relations": {
+    "supersedesSessionId": null,
+    "supersededBySessionId": null
+  },
+  "transaction": {
+    "state": "finalized",
+    "id": "c180c34e-7219-52f6-8808-3536b0af8621"
+  }
+}
