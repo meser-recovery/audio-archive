@@ -3,8 +3,8 @@
   "kind": "ingestion",
   "transactionId": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
   "idempotencyHash": "302dbdcbefc53c6c6ea49b8a78a0ea66c9f67fb369dd3c511f72a75894757d72",
-  "revision": 4,
-  "state": "uploading",
+  "revision": 5,
+  "state": "staged",
   "sessionId": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
   "releaseId": 396111707,
   "releaseTag": "audio-session-302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
@@ -97,7 +97,113 @@
       "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66/blob-fde3d828-02f0-8c50-be18-1209ff1d6488-part-0001.bin"
     }
   ],
-  "stagedManifest": null,
+  "stagedManifest": {
+    "schemaVersion": 1,
+    "revision": 1,
+    "id": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
+    "title": "audioAF31970986261",
+    "recordedAt": null,
+    "createdAt": "2026-09-24T22:01:56.308Z",
+    "updatedAt": "2026-09-24T22:02:22.867Z",
+    "origin": {
+      "kind": "device",
+      "externalId": null
+    },
+    "storage": {
+      "releaseId": 396111707,
+      "tag": "audio-session-302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66"
+    },
+    "lifecycle": {
+      "state": "incoming"
+    },
+    "sourceState": "available",
+    "sourceTracks": [
+      {
+        "trackId": "7b8da791-8ba9-8fd8-94c6-206a5ddb9e23",
+        "blobId": "0e6cd1cf-c406-81f8-bbdc-3a083aa10909",
+        "ordinal": 1,
+        "originalName": "audioAF31970986261.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 15215047,
+        "sha256": "7da44516b31a42ce7518924946c89fead6429edea332939b6c260c80a1032451",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 15215047,
+            "sha256": "7da44516b31a42ce7518924946c89fead6429edea332939b6c260c80a1032451",
+            "assetName": "blob-0e6cd1cf-c406-81f8-bbdc-3a083aa10909-part-0001.bin",
+            "assetId": 586936539,
+            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66/blob-0e6cd1cf-c406-81f8-bbdc-3a083aa10909-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "1e560bd2-8c5a-8f45-80b1-004bfbafbecb",
+        "blobId": "bd8e8d81-ee30-8315-8ddc-188d48d7372e",
+        "ordinal": 2,
+        "originalName": "audioORENM11_1_2221970986261.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 14014768,
+        "sha256": "e69fd60b04c7026b03b1e415228b73843fe0b4ff93cefa864b19ce6417212b18",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 14014768,
+            "sha256": "e69fd60b04c7026b03b1e415228b73843fe0b4ff93cefa864b19ce6417212b18",
+            "assetName": "blob-bd8e8d81-ee30-8315-8ddc-188d48d7372e-part-0001.bin",
+            "assetId": 586936811,
+            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66/blob-bd8e8d81-ee30-8315-8ddc-188d48d7372e-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "f2d37312-40db-86eb-8f62-7ee2e30455f8",
+        "blobId": "fde3d828-02f0-8c50-be18-1209ff1d6488",
+        "ordinal": 3,
+        "originalName": "audioZhenya-61970986261.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 3953454,
+        "sha256": "673b000bbb127d6cbf98dd57ee19e578d1390bac705f88376c59c183b63c4cf3",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 3953454,
+            "sha256": "673b000bbb127d6cbf98dd57ee19e578d1390bac705f88376c59c183b63c4cf3",
+            "assetName": "blob-fde3d828-02f0-8c50-be18-1209ff1d6488-part-0001.bin",
+            "assetId": 586937009,
+            "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66/blob-fde3d828-02f0-8c50-be18-1209ff1d6488-part-0001.bin"
+          }
+        ]
+      }
+    ],
+    "deletedSources": null,
+    "workflows": {
+      "announcement": {
+        "workflow": "announcement",
+        "status": "new",
+        "currentDraft": null,
+        "outputs": [],
+        "deletedVersions": [],
+        "nextVersion": 1
+      },
+      "speaker": {
+        "workflow": "speaker",
+        "status": "new",
+        "currentDraft": null,
+        "outputs": [],
+        "deletedVersions": [],
+        "nextVersion": 1
+      }
+    },
+    "relations": {
+      "supersedesSessionId": null,
+      "supersededBySessionId": null
+    },
+    "transaction": {
+      "state": "finalized",
+      "id": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66"
+    }
+  },
   "createdAt": "2026-09-24T22:01:56.308Z",
-  "updatedAt": "2026-09-24T22:02:19.137Z"
+  "updatedAt": "2026-09-24T22:02:22.867Z"
 }
