@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "revision": 22,
-  "updatedAt": "2026-09-24T22:02:26.784Z",
+  "revision": 23,
+  "updatedAt": "2026-09-24T22:02:33.654Z",
   "entries": [
     {
       "id": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
       "title": "audioAF31970986261",
       "recordedAt": null,
       "createdAt": "2026-09-24T22:01:56.308Z",
-      "updatedAt": "2026-09-24T22:02:22.867Z",
+      "updatedAt": "2026-09-24T22:02:33.446Z",
       "origin": "device",
       "lifecycle": "incoming",
       "sourceState": "available",
       "workflows": {
         "announcement": "new",
-        "speaker": "new"
+        "speaker": "in_progress"
       }
     }
   ]
