@@ -69,5 +69,35 @@
         "compression": "off"
       }
     ]
-  }
+  },
+  "sources": [
+    {
+      "trackId": "7b8da791-8ba9-8fd8-94c6-206a5ddb9e23",
+      "blobId": "0e6cd1cf-c406-81f8-bbdc-3a083aa10909",
+      "ordinal": 1,
+      "originalName": "audioAF31970986261.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 15215047,
+      "sha256": "7da44516b31a42ce7518924946c89fead6429edea332939b6c260c80a1032451"
+    },
+    {
+      "trackId": "1e560bd2-8c5a-8f45-80b1-004bfbafbecb",
+      "blobId": "bd8e8d81-ee30-8315-8ddc-188d48d7372e",
+      "ordinal": 2,
+      "originalName": "audioORENM11_1_2221970986261.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 14014768,
+      "sha256": "e69fd60b04c7026b03b1e415228b73843fe0b4ff93cefa864b19ce6417212b18"
+    },
+    {
+      "trackId": "f2d37312-40db-86eb-8f62-7ee2e30455f8",
+      "blobId": "fde3d828-02f0-8c50-be18-1209ff1d6488",
+      "ordinal": 3,
+      "originalName": "audioZhenya-61970986261.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 3953454,
+      "sha256": "673b000bbb127d6cbf98dd57ee19e578d1390bac705f88376c59c183b63c4cf3"
+    }
+  ],
+  "stateFingerprint": "14ee8668c0e5afdb16beff391299e1abce181e6e000b9a27c3c78d55958c4cdd"
 }
