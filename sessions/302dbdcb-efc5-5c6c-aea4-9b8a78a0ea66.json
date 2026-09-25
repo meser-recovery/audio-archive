@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 3,
+  "revision": 4,
   "id": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
   "title": "audioAF31970986261",
   "recordedAt": null,
   "createdAt": "2026-09-24T22:01:56.308Z",
-  "updatedAt": "2026-09-25T11:17:58.226Z",
+  "updatedAt": "2026-09-25T11:19:21.248Z",
   "origin": {
     "kind": "device",
     "externalId": null
@@ -92,7 +92,7 @@
       "status": "in_progress",
       "currentDraft": {
         "path": "drafts/302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66/speaker.json",
-        "revision": 2
+        "revision": 3
       },
       "outputs": [],
       "deletedVersions": [],
