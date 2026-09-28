@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 27,
-  "updatedAt": "2026-09-28T00:07:02.857Z",
+  "revision": 28,
+  "updatedAt": "2026-09-28T00:08:14.107Z",
   "entries": [
     {
       "id": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
       "title": "audioAF31970986261",
       "recordedAt": null,
       "createdAt": "2026-09-24T22:01:56.308Z",
-      "updatedAt": "2026-09-28T00:07:02.663Z",
+      "updatedAt": "2026-09-28T00:08:13.912Z",
       "origin": "device",
       "lifecycle": "incoming",
       "sourceState": "available",
