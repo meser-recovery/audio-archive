@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 30,
-  "updatedAt": "2026-10-01T10:11:41.421Z",
+  "revision": 31,
+  "updatedAt": "2026-10-01T10:11:53.937Z",
   "entries": [
     {
       "id": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
       "title": "Орен",
       "recordedAt": null,
       "createdAt": "2026-09-24T22:01:56.308Z",
-      "updatedAt": "2026-10-01T10:11:41.420Z",
+      "updatedAt": "2026-10-01T10:11:53.656Z",
       "origin": "device",
       "lifecycle": "incoming",
       "sourceState": "available",
