@@ -4,8 +4,8 @@
   "transactionId": "2547f8a7-92f8-54cf-bc13-8075e6b78972",
   "idempotencyHash": "1348accb3ca273ba429e15c7e1d4aaaaf82624ad6feaaa3e9d74652bf870ae47",
   "requestFingerprint": "2a77940477d81c37d1c701dc680b38d411a50b578838392ab059ca935b4688a4",
-  "revision": 4,
-  "state": "finalizing",
+  "revision": 5,
+  "state": "finalized",
   "sessionId": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
   "workflow": "announcement",
   "outputId": "7903a718-8e76-8651-b3d1-bb1e9f9ce0a3",
@@ -3953,8 +3953,36 @@
       "pauseCount": 236
     }
   },
-  "outputDescriptor": null,
+  "outputDescriptor": {
+    "outputId": "7903a718-8e76-8651-b3d1-bb1e9f9ce0a3",
+    "version": 1,
+    "sessionId": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
+    "createdAt": "2026-10-01T10:11:53.656Z",
+    "blobId": "e4c1a212-c3f7-8b7d-aa9a-b87bfdabbf6c",
+    "sizeBytes": 22839345,
+    "sha256": "6188acc1f2860795124419567b9dafc0536f2e2c845fc565a9fe2852490bbc69",
+    "parts": [
+      {
+        "partNumber": 1,
+        "sizeBytes": 16777216,
+        "sha256": "f2e071defeb3a63515b80958122cb7e4aeba262e7eb68e709dc6a55052573e75",
+        "assetName": "blob-e4c1a212-c3f7-8b7d-aa9a-b87bfdabbf6c-part-0001.bin",
+        "assetId": 602969384,
+        "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66/blob-e4c1a212-c3f7-8b7d-aa9a-b87bfdabbf6c-part-0001.bin"
+      },
+      {
+        "partNumber": 2,
+        "sizeBytes": 6062129,
+        "sha256": "96bb3b2f3cf0f0187a92b48f03127102754ef9da77b50d089cb7b05ac0c154e8",
+        "assetName": "blob-e4c1a212-c3f7-8b7d-aa9a-b87bfdabbf6c-part-0002.bin",
+        "assetId": 602969659,
+        "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66/blob-e4c1a212-c3f7-8b7d-aa9a-b87bfdabbf6c-part-0002.bin"
+      }
+    ],
+    "recipeSnapshotRef": "recipes/302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66/announcement/7903a718-8e76-8651-b3d1-bb1e9f9ce0a3.json",
+    "processorVersion": "s07-v1"
+  },
   "failure": null,
   "createdAt": "2026-10-01T10:11:53.656Z",
-  "updatedAt": "2026-10-01T10:12:16.189Z"
+  "updatedAt": "2026-10-01T10:12:23.250Z"
 }
