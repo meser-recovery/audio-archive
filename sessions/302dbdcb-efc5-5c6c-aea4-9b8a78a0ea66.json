@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 8,
+  "revision": 9,
   "id": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
   "title": "Орен",
   "recordedAt": null,
   "createdAt": "2026-09-24T22:01:56.308Z",
-  "updatedAt": "2026-09-28T00:10:50.410Z",
+  "updatedAt": "2026-10-01T10:11:41.420Z",
   "origin": {
     "kind": "device",
     "externalId": null
@@ -81,8 +81,11 @@
   "workflows": {
     "announcement": {
       "workflow": "announcement",
-      "status": "new",
-      "currentDraft": null,
+      "status": "in_progress",
+      "currentDraft": {
+        "path": "drafts/302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66/announcement.json",
+        "revision": 1
+      },
       "outputs": [],
       "deletedVersions": [],
       "nextVersion": 1
