@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "id": "8ccc07f18bdb7997dd2d7d46266c058ac4cac48f2c6efdf17fe60166b98b418a",
+  "revision": 1,
+  "connectionId": "be39f098-5af7-4c39-8ac8-5c2225c27e86",
+  "connectionRevision": 1,
+  "occurrenceUuid": "wVIZNXxOTEad4v9SajWr8g==",
+  "recordedAt": "2026-10-13T17:00:19Z",
+  "title": "Zoom · 13.10.2026, 20:00 МСК",
+  "files": [
+    {
+      "id": "9bc9d90b-2860-4f96-a7ad-f5186e38abfc",
+      "name": "Audio only - Alex.m4a",
+      "sizeBytes": 22779833,
+      "startTime": "2026-10-13T17:58:07Z",
+      "endTime": "2026-10-13T18:40:40Z"
+    },
+    {
+      "id": "bc48f8ce-dac3-42b5-ab9d-c9b77885b70b",
+      "name": "Audio only - Пользователь Zoom.m4a",
+      "sizeBytes": 18283248,
+      "startTime": "2026-10-13T17:58:07Z",
+      "endTime": "2026-10-13T18:40:40Z"
+    },
+    {
+      "id": "94439817-4823-4879-92a5-31c359214518",
+      "name": "Audio only - Илья Тверь.m4a",
+      "sizeBytes": 4841573,
+      "startTime": "2026-10-13T17:58:07Z",
+      "endTime": "2026-10-13T18:40:40Z"
+    }
+  ],
+  "idempotencyKey": "zoom:8ccc07f18bdb7997dd2d7d46266c058ac4cac48f2c6efdf17fe60166b98b418a",
+  "transactionId": "5c9e405b-7ae2-5308-a56f-77750da9c4cb",
+  "state": "reserved",
+  "plan": null
+}
