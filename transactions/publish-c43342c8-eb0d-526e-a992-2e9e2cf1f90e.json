@@ -1,0 +1,594 @@
+{
+  "schemaVersion": 1,
+  "kind": "publication",
+  "transactionId": "c43342c8-eb0d-526e-a992-2e9e2cf1f90e",
+  "idempotencyHash": "355e4b33013b089c04a1c43c603e9ade2e50e2455a1858df874a4859e6abd514",
+  "requestFingerprint": "af88c2a3127cca4759c9860992ec6392b1f78906559c72d6f4f039367bd41bb8",
+  "revision": 1,
+  "state": "uploading",
+  "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
+  "workflow": "speaker",
+  "outputId": "cf2453ab-b909-820c-950b-c3a6210cf083",
+  "blobId": "70132355-773e-8ed3-a842-3c6c121fa4ce",
+  "expectedRevision": 5,
+  "reservedSessionRevision": 6,
+  "reservedVersion": 1,
+  "releaseId": 415857250,
+  "releaseTag": "audio-session-69cde673-5b36-5503-a387-0fd1a46e8ce2",
+  "plan": {
+    "outputId": "cf2453ab-b909-820c-950b-c3a6210cf083",
+    "blobId": "70132355-773e-8ed3-a842-3c6c121fa4ce",
+    "processorVersion": "speaker-editor-v1",
+    "sizeBytes": 33963018,
+    "sha256": "a600f92acc7fc71e5acc0cbe758436affa61358d678e7909b206f44398c70ef5",
+    "parts": [
+      {
+        "partNumber": 1,
+        "sizeBytes": 16777216,
+        "sha256": "f2f1994731450d1219c5899826a533d1db21cb994edd9871f46487fff0df897d",
+        "assetName": "blob-70132355-773e-8ed3-a842-3c6c121fa4ce-part-0001.bin"
+      },
+      {
+        "partNumber": 2,
+        "sizeBytes": 16777216,
+        "sha256": "a73523b7a333dd9a6cec2d1f699c1b00010521e19eb3fe693770c1c48387003f",
+        "assetName": "blob-70132355-773e-8ed3-a842-3c6c121fa4ce-part-0002.bin"
+      },
+      {
+        "partNumber": 3,
+        "sizeBytes": 408586,
+        "sha256": "948e025a75a0e2ff747ce7a69ddb53335324b3d41efaffd4645df8f37eefc3f7",
+        "assetName": "blob-70132355-773e-8ed3-a842-3c6c121fa4ce-part-0003.bin"
+      }
+    ],
+    "recipe": {
+      "schemaVersion": 2,
+      "projectState": {
+        "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
+        "draftRevision": 1,
+        "stateFingerprint": "85b5d86e4c6236ad95fc4c0b515566834fdd2aaf2f926cb608a1db0db7fdcd61"
+      },
+      "renderedAt": "2026-10-17T15:28:04.029Z",
+      "sourceSessionRevision": 5,
+      "draft": {
+        "revision": 1,
+        "payloadSchema": "speaker/v1",
+        "payload": {
+          "trackIds": [
+            "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+            "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+            "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+            "5e1325d9-4fff-8712-9a6e-a4244360501b",
+            "f911475f-9e75-82e5-9a41-51c652edbbe1"
+          ],
+          "excludedTrackIds": [],
+          "globalCuts": [
+            {
+              "regionId": "7b8b3dfd-b49f-4c22-a258-c6a70e69794a",
+              "startSeconds": 0,
+              "endSeconds": 878.000097
+            },
+            {
+              "regionId": "468d5ddf-0bcd-469f-b92d-7a34b74c27ba",
+              "startSeconds": 2832.998794,
+              "endSeconds": 2835.167779
+            },
+            {
+              "regionId": "71301503-447d-4d13-a2e6-3e1338cd578b",
+              "startSeconds": 3002.788578,
+              "endSeconds": 3020.864
+            }
+          ],
+          "trackSilenceRegions": [
+            {
+              "regionId": "d8d6a761-c69b-4f5b-9444-68058a8317f0",
+              "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+              "startSeconds": 2043.222497,
+              "endSeconds": 2052.392389
+            },
+            {
+              "regionId": "67e6c530-3f96-4125-a97b-31c532b1ac36",
+              "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+              "startSeconds": 2072.786526,
+              "endSeconds": 2081.606725
+            },
+            {
+              "regionId": "c079e901-13c3-46f5-bb82-2f4f7975482c",
+              "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+              "startSeconds": 2098.853966,
+              "endSeconds": 2098.974932
+            },
+            {
+              "regionId": "40ab47c7-e4d4-4b72-ad8f-1129a580c174",
+              "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+              "startSeconds": 2099.40331,
+              "endSeconds": 2099.735783
+            }
+          ],
+          "trackProcessing": [
+            {
+              "trackId": "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+              "enhancement": "gentle",
+              "leveling": "off",
+              "compression": "light"
+            },
+            {
+              "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+              "enhancement": "off",
+              "leveling": "off",
+              "compression": "off"
+            },
+            {
+              "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+              "enhancement": "off",
+              "leveling": "off",
+              "compression": "off"
+            },
+            {
+              "trackId": "5e1325d9-4fff-8712-9a6e-a4244360501b",
+              "enhancement": "off",
+              "leveling": "off",
+              "compression": "off"
+            },
+            {
+              "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+              "enhancement": "off",
+              "leveling": "off",
+              "compression": "off"
+            }
+          ]
+        }
+      },
+      "sources": [
+        {
+          "trackId": "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+          "blobId": "8a48df9a-0d29-83a9-b6c0-4a48e01e0471",
+          "ordinal": 1,
+          "originalFilename": "Audio only - Alex.m4a",
+          "mediaType": "audio/mp4",
+          "sizeBytes": 31192837,
+          "sha256": "4fefdd9729128add7d715eb92227de659ee1137e6ddca0a3dbcf7ce3518e1f09"
+        },
+        {
+          "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+          "blobId": "80649668-fd81-8922-92cc-4a5fc62e3e62",
+          "ordinal": 2,
+          "originalFilename": "Audio only - Sasha Anonymous.m4a",
+          "mediaType": "audio/mp4",
+          "sizeBytes": 3173415,
+          "sha256": "a160109e847fe45dd50b7e9fdfb1934a4632717b6f5d1a3c71ca933212304764"
+        },
+        {
+          "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+          "blobId": "6290efde-db05-843c-889d-a04bec816e2a",
+          "ordinal": 3,
+          "originalFilename": "Audio only - Evhenii — iPhone.m4a",
+          "mediaType": "audio/mp4",
+          "sizeBytes": 3161053,
+          "sha256": "a54d3bb65a55f075528c1c8b5b7b4637353af9b46519d0a789239c09658d9986"
+        },
+        {
+          "trackId": "5e1325d9-4fff-8712-9a6e-a4244360501b",
+          "blobId": "a1de3d25-ea86-8cf0-8619-c15d5dbb858a",
+          "ordinal": 4,
+          "originalFilename": "Audio only - Sasha Anonymous.m4a",
+          "mediaType": "audio/mp4",
+          "sizeBytes": 2779251,
+          "sha256": "0ed2c1495d9fc9e123aa44b53e0b60231412107b24f3afae3d24301b01a7ea5e"
+        },
+        {
+          "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+          "blobId": "1a63ef9f-1cec-8302-bbe9-61780e6718d9",
+          "ordinal": 5,
+          "originalFilename": "Audio only - Вова Прага.m4a",
+          "mediaType": "audio/mp4",
+          "sizeBytes": 2731115,
+          "sha256": "02d2f8a30b7aada734d0f7ecfadd58bf10e46221ba78d0d2b907bf8561134ff3"
+        }
+      ],
+      "editState": {
+        "orderedTrackIds": [
+          "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+          "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+          "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+          "5e1325d9-4fff-8712-9a6e-a4244360501b",
+          "f911475f-9e75-82e5-9a41-51c652edbbe1"
+        ],
+        "includedTrackIds": [
+          "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+          "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+          "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+          "5e1325d9-4fff-8712-9a6e-a4244360501b",
+          "f911475f-9e75-82e5-9a41-51c652edbbe1"
+        ],
+        "excludedTrackIds": [],
+        "globalCuts": [
+          {
+            "regionId": "7b8b3dfd-b49f-4c22-a258-c6a70e69794a",
+            "startSeconds": 0,
+            "endSeconds": 878.000097
+          },
+          {
+            "regionId": "468d5ddf-0bcd-469f-b92d-7a34b74c27ba",
+            "startSeconds": 2832.998794,
+            "endSeconds": 2835.167779
+          },
+          {
+            "regionId": "71301503-447d-4d13-a2e6-3e1338cd578b",
+            "startSeconds": 3002.788578,
+            "endSeconds": 3020.864
+          }
+        ],
+        "trackSilenceRegions": [
+          {
+            "regionId": "d8d6a761-c69b-4f5b-9444-68058a8317f0",
+            "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+            "startSeconds": 2043.222497,
+            "endSeconds": 2052.392389
+          },
+          {
+            "regionId": "67e6c530-3f96-4125-a97b-31c532b1ac36",
+            "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+            "startSeconds": 2072.786526,
+            "endSeconds": 2081.606725
+          },
+          {
+            "regionId": "c079e901-13c3-46f5-bb82-2f4f7975482c",
+            "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+            "startSeconds": 2098.853966,
+            "endSeconds": 2098.974932
+          },
+          {
+            "regionId": "40ab47c7-e4d4-4b72-ad8f-1129a580c174",
+            "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+            "startSeconds": 2099.40331,
+            "endSeconds": 2099.735783
+          }
+        ],
+        "trackProcessing": [
+          {
+            "trackId": "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+            "enhancement": "gentle",
+            "leveling": "off",
+            "compression": "light"
+          },
+          {
+            "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "5e1325d9-4fff-8712-9a6e-a4244360501b",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          }
+        ]
+      },
+      "renderer": {
+        "sampleRate": 48000,
+        "enhancement": "highpass=f=80,lowpass=f=16000",
+        "loudnorm": {
+          "integratedLufs": -19,
+          "truePeakDb": -3,
+          "loudnessRangeLufs": 11,
+          "measurements": []
+        },
+        "compression": {
+          "light": "acompressor=threshold=0.177828:ratio=2:attack=20:release=250:knee=2:makeup=1.25",
+          "medium": "acompressor=threshold=0.125893:ratio=3:attack=15:release=300:knee=2.5:makeup=1.5",
+          "strong": "acompressor=threshold=0.089125:ratio=4:attack=10:release=350:knee=3:makeup=1.75"
+        },
+        "mix": "amix=duration=longest:normalize=0",
+        "limiter": "alimiter=limit=0.95:level=0:latency=1",
+        "codec": {
+          "name": "libmp3lame",
+          "bitrate": "128k"
+        }
+      },
+      "candidateFingerprint": "ebeba7e9c0d5a03f500dd4a60339f39540d2b7d057d73bb66561706eb4b50a29",
+      "result": {
+        "mediaType": "audio/mpeg",
+        "presentationFilename": "Zoom · 30.09.2026, 21:01 МСК-speaker.mp3",
+        "sizeBytes": 33963018,
+        "sha256": "a600f92acc7fc71e5acc0cbe758436affa61358d678e7909b206f44398c70ef5",
+        "originalDurationSeconds": 3020.864,
+        "resultDurationSeconds": 2122.618667,
+        "globallyRemovedDurationSeconds": 898.244504
+      }
+    }
+  },
+  "uploadedParts": [],
+  "recipeSnapshot": {
+    "schemaVersion": 2,
+    "workflow": "speaker",
+    "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
+    "outputId": "cf2453ab-b909-820c-950b-c3a6210cf083",
+    "version": 1,
+    "processorVersion": "speaker-editor-v1",
+    "createdAt": "2026-10-17T15:29:05.827Z",
+    "projectState": {
+      "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
+      "draftRevision": 1,
+      "stateFingerprint": "85b5d86e4c6236ad95fc4c0b515566834fdd2aaf2f926cb608a1db0db7fdcd61"
+    },
+    "renderedAt": "2026-10-17T15:28:04.029Z",
+    "sourceSessionRevision": 5,
+    "draft": {
+      "revision": 1,
+      "payloadSchema": "speaker/v1",
+      "payload": {
+        "trackIds": [
+          "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+          "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+          "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+          "5e1325d9-4fff-8712-9a6e-a4244360501b",
+          "f911475f-9e75-82e5-9a41-51c652edbbe1"
+        ],
+        "excludedTrackIds": [],
+        "globalCuts": [
+          {
+            "regionId": "7b8b3dfd-b49f-4c22-a258-c6a70e69794a",
+            "startSeconds": 0,
+            "endSeconds": 878.000097
+          },
+          {
+            "regionId": "468d5ddf-0bcd-469f-b92d-7a34b74c27ba",
+            "startSeconds": 2832.998794,
+            "endSeconds": 2835.167779
+          },
+          {
+            "regionId": "71301503-447d-4d13-a2e6-3e1338cd578b",
+            "startSeconds": 3002.788578,
+            "endSeconds": 3020.864
+          }
+        ],
+        "trackSilenceRegions": [
+          {
+            "regionId": "d8d6a761-c69b-4f5b-9444-68058a8317f0",
+            "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+            "startSeconds": 2043.222497,
+            "endSeconds": 2052.392389
+          },
+          {
+            "regionId": "67e6c530-3f96-4125-a97b-31c532b1ac36",
+            "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+            "startSeconds": 2072.786526,
+            "endSeconds": 2081.606725
+          },
+          {
+            "regionId": "c079e901-13c3-46f5-bb82-2f4f7975482c",
+            "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+            "startSeconds": 2098.853966,
+            "endSeconds": 2098.974932
+          },
+          {
+            "regionId": "40ab47c7-e4d4-4b72-ad8f-1129a580c174",
+            "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+            "startSeconds": 2099.40331,
+            "endSeconds": 2099.735783
+          }
+        ],
+        "trackProcessing": [
+          {
+            "trackId": "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+            "enhancement": "gentle",
+            "leveling": "off",
+            "compression": "light"
+          },
+          {
+            "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "5e1325d9-4fff-8712-9a6e-a4244360501b",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          },
+          {
+            "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+            "enhancement": "off",
+            "leveling": "off",
+            "compression": "off"
+          }
+        ]
+      }
+    },
+    "sources": [
+      {
+        "trackId": "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+        "blobId": "8a48df9a-0d29-83a9-b6c0-4a48e01e0471",
+        "ordinal": 1,
+        "originalFilename": "Audio only - Alex.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 31192837,
+        "sha256": "4fefdd9729128add7d715eb92227de659ee1137e6ddca0a3dbcf7ce3518e1f09"
+      },
+      {
+        "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+        "blobId": "80649668-fd81-8922-92cc-4a5fc62e3e62",
+        "ordinal": 2,
+        "originalFilename": "Audio only - Sasha Anonymous.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 3173415,
+        "sha256": "a160109e847fe45dd50b7e9fdfb1934a4632717b6f5d1a3c71ca933212304764"
+      },
+      {
+        "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+        "blobId": "6290efde-db05-843c-889d-a04bec816e2a",
+        "ordinal": 3,
+        "originalFilename": "Audio only - Evhenii — iPhone.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 3161053,
+        "sha256": "a54d3bb65a55f075528c1c8b5b7b4637353af9b46519d0a789239c09658d9986"
+      },
+      {
+        "trackId": "5e1325d9-4fff-8712-9a6e-a4244360501b",
+        "blobId": "a1de3d25-ea86-8cf0-8619-c15d5dbb858a",
+        "ordinal": 4,
+        "originalFilename": "Audio only - Sasha Anonymous.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2779251,
+        "sha256": "0ed2c1495d9fc9e123aa44b53e0b60231412107b24f3afae3d24301b01a7ea5e"
+      },
+      {
+        "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+        "blobId": "1a63ef9f-1cec-8302-bbe9-61780e6718d9",
+        "ordinal": 5,
+        "originalFilename": "Audio only - Вова Прага.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2731115,
+        "sha256": "02d2f8a30b7aada734d0f7ecfadd58bf10e46221ba78d0d2b907bf8561134ff3"
+      }
+    ],
+    "editState": {
+      "orderedTrackIds": [
+        "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+        "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+        "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+        "5e1325d9-4fff-8712-9a6e-a4244360501b",
+        "f911475f-9e75-82e5-9a41-51c652edbbe1"
+      ],
+      "includedTrackIds": [
+        "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+        "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+        "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+        "5e1325d9-4fff-8712-9a6e-a4244360501b",
+        "f911475f-9e75-82e5-9a41-51c652edbbe1"
+      ],
+      "excludedTrackIds": [],
+      "globalCuts": [
+        {
+          "regionId": "7b8b3dfd-b49f-4c22-a258-c6a70e69794a",
+          "startSeconds": 0,
+          "endSeconds": 878.000097
+        },
+        {
+          "regionId": "468d5ddf-0bcd-469f-b92d-7a34b74c27ba",
+          "startSeconds": 2832.998794,
+          "endSeconds": 2835.167779
+        },
+        {
+          "regionId": "71301503-447d-4d13-a2e6-3e1338cd578b",
+          "startSeconds": 3002.788578,
+          "endSeconds": 3020.864
+        }
+      ],
+      "trackSilenceRegions": [
+        {
+          "regionId": "d8d6a761-c69b-4f5b-9444-68058a8317f0",
+          "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+          "startSeconds": 2043.222497,
+          "endSeconds": 2052.392389
+        },
+        {
+          "regionId": "67e6c530-3f96-4125-a97b-31c532b1ac36",
+          "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+          "startSeconds": 2072.786526,
+          "endSeconds": 2081.606725
+        },
+        {
+          "regionId": "c079e901-13c3-46f5-bb82-2f4f7975482c",
+          "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+          "startSeconds": 2098.853966,
+          "endSeconds": 2098.974932
+        },
+        {
+          "regionId": "40ab47c7-e4d4-4b72-ad8f-1129a580c174",
+          "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+          "startSeconds": 2099.40331,
+          "endSeconds": 2099.735783
+        }
+      ],
+      "trackProcessing": [
+        {
+          "trackId": "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+          "enhancement": "gentle",
+          "leveling": "off",
+          "compression": "light"
+        },
+        {
+          "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+          "enhancement": "off",
+          "leveling": "off",
+          "compression": "off"
+        },
+        {
+          "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+          "enhancement": "off",
+          "leveling": "off",
+          "compression": "off"
+        },
+        {
+          "trackId": "5e1325d9-4fff-8712-9a6e-a4244360501b",
+          "enhancement": "off",
+          "leveling": "off",
+          "compression": "off"
+        },
+        {
+          "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+          "enhancement": "off",
+          "leveling": "off",
+          "compression": "off"
+        }
+      ]
+    },
+    "renderer": {
+      "sampleRate": 48000,
+      "enhancement": "highpass=f=80,lowpass=f=16000",
+      "loudnorm": {
+        "integratedLufs": -19,
+        "truePeakDb": -3,
+        "loudnessRangeLufs": 11,
+        "measurements": []
+      },
+      "compression": {
+        "light": "acompressor=threshold=0.177828:ratio=2:attack=20:release=250:knee=2:makeup=1.25",
+        "medium": "acompressor=threshold=0.125893:ratio=3:attack=15:release=300:knee=2.5:makeup=1.5",
+        "strong": "acompressor=threshold=0.089125:ratio=4:attack=10:release=350:knee=3:makeup=1.75"
+      },
+      "mix": "amix=duration=longest:normalize=0",
+      "limiter": "alimiter=limit=0.95:level=0:latency=1",
+      "codec": {
+        "name": "libmp3lame",
+        "bitrate": "128k"
+      }
+    },
+    "candidateFingerprint": "ebeba7e9c0d5a03f500dd4a60339f39540d2b7d057d73bb66561706eb4b50a29",
+    "result": {
+      "mediaType": "audio/mpeg",
+      "presentationFilename": "Zoom · 30.09.2026, 21:01 МСК-speaker.mp3",
+      "sizeBytes": 33963018,
+      "sha256": "a600f92acc7fc71e5acc0cbe758436affa61358d678e7909b206f44398c70ef5",
+      "originalDurationSeconds": 3020.864,
+      "resultDurationSeconds": 2122.618667,
+      "globallyRemovedDurationSeconds": 898.244504
+    }
+  },
+  "outputDescriptor": null,
+  "failure": null,
+  "createdAt": "2026-10-17T15:29:05.827Z",
+  "updatedAt": "2026-10-17T15:29:05.827Z"
+}
