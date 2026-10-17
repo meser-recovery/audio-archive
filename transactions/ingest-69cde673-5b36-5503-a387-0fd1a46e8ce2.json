@@ -3,7 +3,7 @@
   "kind": "ingestion",
   "transactionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
   "idempotencyHash": "69cde6735b360503e3870fd1a46e8ce24cb7c19dfe06ce006454ba161c4961a6",
-  "revision": 1,
+  "revision": 2,
   "state": "uploading",
   "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
   "releaseId": 415857250,
@@ -108,9 +108,19 @@
       }
     ]
   },
-  "uploadedParts": [],
+  "uploadedParts": [
+    {
+      "blobId": "8a48df9a-0d29-83a9-b6c0-4a48e01e0471",
+      "partNumber": 1,
+      "assetName": "blob-8a48df9a-0d29-83a9-b6c0-4a48e01e0471-part-0001.bin",
+      "sizeBytes": 16777216,
+      "sha256": "8c1cd85b79925631c06ffdda1395e3a92ddcb0db6c36ceb3088d1d92bce955cd",
+      "assetId": 650720760,
+      "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-69cde673-5b36-5503-a387-0fd1a46e8ce2/blob-8a48df9a-0d29-83a9-b6c0-4a48e01e0471-part-0001.bin"
+    }
+  ],
   "stagedManifest": null,
   "createdAt": "2026-10-17T14:45:46.122Z",
-  "updatedAt": "2026-10-17T14:45:46.122Z",
+  "updatedAt": "2026-10-17T14:45:56.858Z",
   "zoomImportId": "34a570f30e91e555ecc790d6a40d98911132b3f65476dfc493c18b8d6e50df35"
 }
