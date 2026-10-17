@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
+  "workflow": "speaker",
+  "draftRevision": 1,
+  "sourceSessionRevision": 5,
+  "savedAt": "2026-10-17T15:25:21.829Z",
+  "payloadSchema": "speaker/v1",
+  "payload": {
+    "trackIds": [
+      "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+      "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+      "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+      "5e1325d9-4fff-8712-9a6e-a4244360501b",
+      "f911475f-9e75-82e5-9a41-51c652edbbe1"
+    ],
+    "excludedTrackIds": [],
+    "globalCuts": [
+      {
+        "regionId": "7b8b3dfd-b49f-4c22-a258-c6a70e69794a",
+        "startSeconds": 0,
+        "endSeconds": 878.000097
+      },
+      {
+        "regionId": "468d5ddf-0bcd-469f-b92d-7a34b74c27ba",
+        "startSeconds": 2832.998794,
+        "endSeconds": 2835.167779
+      },
+      {
+        "regionId": "71301503-447d-4d13-a2e6-3e1338cd578b",
+        "startSeconds": 3002.788578,
+        "endSeconds": 3020.864
+      }
+    ],
+    "trackSilenceRegions": [
+      {
+        "regionId": "d8d6a761-c69b-4f5b-9444-68058a8317f0",
+        "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+        "startSeconds": 2043.222497,
+        "endSeconds": 2052.392389
+      },
+      {
+        "regionId": "67e6c530-3f96-4125-a97b-31c532b1ac36",
+        "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+        "startSeconds": 2072.786526,
+        "endSeconds": 2081.606725
+      },
+      {
+        "regionId": "c079e901-13c3-46f5-bb82-2f4f7975482c",
+        "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+        "startSeconds": 2098.853966,
+        "endSeconds": 2098.974932
+      },
+      {
+        "regionId": "40ab47c7-e4d4-4b72-ad8f-1129a580c174",
+        "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+        "startSeconds": 2099.40331,
+        "endSeconds": 2099.735783
+      }
+    ],
+    "trackProcessing": [
+      {
+        "trackId": "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+        "enhancement": "gentle",
+        "leveling": "off",
+        "compression": "light"
+      },
+      {
+        "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "5e1325d9-4fff-8712-9a6e-a4244360501b",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      }
+    ]
+  }
+}
