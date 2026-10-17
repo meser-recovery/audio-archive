@@ -4,8 +4,8 @@
   "transactionId": "e6facecb-fca6-59a7-958f-3e77b76fe84c",
   "idempotencyHash": "8763bea4c6e8a0cd7418f1fddf2cef35157393a73f6b0bb36f290a42e751c795",
   "requestFingerprint": "a1f186d2523c3c20ccb7e57ada351b8ec11e535d8d1c14b373d62e1bf0c17dd6",
-  "revision": 2,
-  "state": "uploading",
+  "revision": 3,
+  "state": "finalizing",
   "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
   "workflow": "announcement",
   "outputId": "e25d112e-a959-8e4a-916c-59e2b788fe8d",
@@ -537,5 +537,5 @@
   "outputDescriptor": null,
   "failure": null,
   "createdAt": "2026-10-17T14:59:22.167Z",
-  "updatedAt": "2026-10-17T14:59:29.566Z"
+  "updatedAt": "2026-10-17T14:59:32.942Z"
 }
