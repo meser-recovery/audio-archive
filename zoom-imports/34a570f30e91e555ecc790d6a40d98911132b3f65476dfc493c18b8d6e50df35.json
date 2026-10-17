@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "34a570f30e91e555ecc790d6a40d98911132b3f65476dfc493c18b8d6e50df35",
+  "revision": 1,
+  "connectionId": "be39f098-5af7-4c39-8ac8-5c2225c27e86",
+  "connectionRevision": 1,
+  "occurrenceUuid": "2Bt/fLTUTZy1dtRBHWx6qw==",
+  "recordedAt": "2026-09-30T18:01:46Z",
+  "title": "Zoom · 30.09.2026, 21:01 МСК",
+  "files": [
+    {
+      "id": "593740ea-d578-42b7-8961-b8be7ef17063",
+      "name": "Audio only - Alex.m4a",
+      "sizeBytes": 31192837,
+      "startTime": "2026-09-30T18:42:43Z",
+      "endTime": "2026-09-30T19:33:43Z"
+    },
+    {
+      "id": "d13a07e0-747e-450d-92af-51f1058be5f6",
+      "name": "Audio only - Sasha Anonymous.m4a",
+      "sizeBytes": 3173415,
+      "startTime": "2026-09-30T18:42:43Z",
+      "endTime": "2026-09-30T19:33:43Z"
+    },
+    {
+      "id": "87dd7d08-2959-484d-84e1-4e18e4a6a695",
+      "name": "Audio only - Evhenii — iPhone.m4a",
+      "sizeBytes": 3161053,
+      "startTime": "2026-09-30T18:42:43Z",
+      "endTime": "2026-09-30T19:33:43Z"
+    },
+    {
+      "id": "6b8d3f39-9790-498a-8472-f7dc948f9a0b",
+      "name": "Audio only - Sasha Anonymous.m4a",
+      "sizeBytes": 2779251,
+      "startTime": "2026-09-30T18:42:43Z",
+      "endTime": "2026-09-30T19:33:43Z"
+    },
+    {
+      "id": "1dcaa1a0-17b2-43b7-b1e4-5faca01a9e64",
+      "name": "Audio only - Вова Прага.m4a",
+      "sizeBytes": 2731115,
+      "startTime": "2026-09-30T18:42:43Z",
+      "endTime": "2026-09-30T19:33:43Z"
+    }
+  ],
+  "idempotencyKey": "zoom:34a570f30e91e555ecc790d6a40d98911132b3f65476dfc493c18b8d6e50df35",
+  "transactionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
+  "state": "reserved",
+  "plan": null
+}
