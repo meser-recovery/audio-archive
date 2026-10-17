@@ -1,7 +1,7 @@
 {
   "version": 1,
   "id": "34a570f30e91e555ecc790d6a40d98911132b3f65476dfc493c18b8d6e50df35",
-  "revision": 1,
+  "revision": 2,
   "connectionId": "be39f098-5af7-4c39-8ac8-5c2225c27e86",
   "connectionRevision": 1,
   "occurrenceUuid": "2Bt/fLTUTZy1dtRBHWx6qw==",
@@ -46,6 +46,101 @@
   ],
   "idempotencyKey": "zoom:34a570f30e91e555ecc790d6a40d98911132b3f65476dfc493c18b8d6e50df35",
   "transactionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
-  "state": "reserved",
-  "plan": null
+  "state": "bound",
+  "plan": {
+    "totalBytes": 43037671,
+    "tracks": [
+      {
+        "trackId": "17c85a44-f330-8972-96f0-3d0e7f05ca47",
+        "blobId": "8a48df9a-0d29-83a9-b6c0-4a48e01e0471",
+        "ordinal": 1,
+        "originalName": "Audio only - Alex.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 31192837,
+        "sha256": "4fefdd9729128add7d715eb92227de659ee1137e6ddca0a3dbcf7ce3518e1f09",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 16777216,
+            "sha256": "8c1cd85b79925631c06ffdda1395e3a92ddcb0db6c36ceb3088d1d92bce955cd",
+            "assetName": "blob-8a48df9a-0d29-83a9-b6c0-4a48e01e0471-part-0001.bin"
+          },
+          {
+            "partNumber": 2,
+            "sizeBytes": 14415621,
+            "sha256": "ef2b7d778f969d28a81c3e4ca7fc3f587c248ed927b7bbf90332007a864c86ca",
+            "assetName": "blob-8a48df9a-0d29-83a9-b6c0-4a48e01e0471-part-0002.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "bc6faaf6-1d11-8162-9dd9-3e9449ce4ecd",
+        "blobId": "80649668-fd81-8922-92cc-4a5fc62e3e62",
+        "ordinal": 2,
+        "originalName": "Audio only - Sasha Anonymous.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 3173415,
+        "sha256": "a160109e847fe45dd50b7e9fdfb1934a4632717b6f5d1a3c71ca933212304764",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 3173415,
+            "sha256": "a160109e847fe45dd50b7e9fdfb1934a4632717b6f5d1a3c71ca933212304764",
+            "assetName": "blob-80649668-fd81-8922-92cc-4a5fc62e3e62-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "20bbad1b-9456-88b5-9b5d-0a556baf6ba3",
+        "blobId": "6290efde-db05-843c-889d-a04bec816e2a",
+        "ordinal": 3,
+        "originalName": "Audio only - Evhenii — iPhone.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 3161053,
+        "sha256": "a54d3bb65a55f075528c1c8b5b7b4637353af9b46519d0a789239c09658d9986",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 3161053,
+            "sha256": "a54d3bb65a55f075528c1c8b5b7b4637353af9b46519d0a789239c09658d9986",
+            "assetName": "blob-6290efde-db05-843c-889d-a04bec816e2a-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "5e1325d9-4fff-8712-9a6e-a4244360501b",
+        "blobId": "a1de3d25-ea86-8cf0-8619-c15d5dbb858a",
+        "ordinal": 4,
+        "originalName": "Audio only - Sasha Anonymous.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2779251,
+        "sha256": "0ed2c1495d9fc9e123aa44b53e0b60231412107b24f3afae3d24301b01a7ea5e",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 2779251,
+            "sha256": "0ed2c1495d9fc9e123aa44b53e0b60231412107b24f3afae3d24301b01a7ea5e",
+            "assetName": "blob-a1de3d25-ea86-8cf0-8619-c15d5dbb858a-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "f911475f-9e75-82e5-9a41-51c652edbbe1",
+        "blobId": "1a63ef9f-1cec-8302-bbe9-61780e6718d9",
+        "ordinal": 5,
+        "originalName": "Audio only - Вова Прага.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2731115,
+        "sha256": "02d2f8a30b7aada734d0f7ecfadd58bf10e46221ba78d0d2b907bf8561134ff3",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 2731115,
+            "sha256": "02d2f8a30b7aada734d0f7ecfadd58bf10e46221ba78d0d2b907bf8561134ff3",
+            "assetName": "blob-1a63ef9f-1cec-8302-bbe9-61780e6718d9-part-0001.bin"
+          }
+        ]
+      }
+    ]
+  }
 }
