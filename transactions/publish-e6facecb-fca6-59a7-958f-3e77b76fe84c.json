@@ -4,8 +4,8 @@
   "transactionId": "e6facecb-fca6-59a7-958f-3e77b76fe84c",
   "idempotencyHash": "8763bea4c6e8a0cd7418f1fddf2cef35157393a73f6b0bb36f290a42e751c795",
   "requestFingerprint": "a1f186d2523c3c20ccb7e57ada351b8ec11e535d8d1c14b373d62e1bf0c17dd6",
-  "revision": 3,
-  "state": "finalizing",
+  "revision": 4,
+  "state": "finalized",
   "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
   "workflow": "announcement",
   "outputId": "e25d112e-a959-8e4a-916c-59e2b788fe8d",
@@ -534,8 +534,28 @@
       "pauseCount": 21
     }
   },
-  "outputDescriptor": null,
+  "outputDescriptor": {
+    "outputId": "e25d112e-a959-8e4a-916c-59e2b788fe8d",
+    "version": 1,
+    "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
+    "createdAt": "2026-10-17T14:59:22.167Z",
+    "blobId": "aedd4178-bbab-87f5-be9e-c042acec46b7",
+    "sizeBytes": 6618801,
+    "sha256": "7db95de4a52e90cdc0f01f8dbb2465c5d2100f2bc886caed3b9918963adb583f",
+    "parts": [
+      {
+        "partNumber": 1,
+        "sizeBytes": 6618801,
+        "sha256": "7db95de4a52e90cdc0f01f8dbb2465c5d2100f2bc886caed3b9918963adb583f",
+        "assetName": "blob-aedd4178-bbab-87f5-be9e-c042acec46b7-part-0001.bin",
+        "assetId": 650750169,
+        "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-69cde673-5b36-5503-a387-0fd1a46e8ce2/blob-aedd4178-bbab-87f5-be9e-c042acec46b7-part-0001.bin"
+      }
+    ],
+    "recipeSnapshotRef": "recipes/69cde673-5b36-5503-a387-0fd1a46e8ce2/announcement/e25d112e-a959-8e4a-916c-59e2b788fe8d.json",
+    "processorVersion": "s07-v1"
+  },
   "failure": null,
   "createdAt": "2026-10-17T14:59:22.167Z",
-  "updatedAt": "2026-10-17T14:59:32.942Z"
+  "updatedAt": "2026-10-17T14:59:38.658Z"
 }

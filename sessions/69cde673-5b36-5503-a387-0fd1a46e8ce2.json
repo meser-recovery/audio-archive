@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 3,
+  "revision": 4,
   "id": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
   "title": "Zoom · 30.09.2026, 21:01 МСК",
   "recordedAt": "2026-09-30T18:01:46Z",
   "createdAt": "2026-10-17T14:45:46.122Z",
-  "updatedAt": "2026-10-17T14:59:22.167Z",
+  "updatedAt": "2026-10-17T14:59:38.658Z",
   "origin": {
     "kind": "zoom_cloud",
     "externalId": "34a570f30e91e555ecc790d6a40d98911132b3f65476dfc493c18b8d6e50df35"
@@ -127,12 +127,34 @@
   "workflows": {
     "announcement": {
       "workflow": "announcement",
-      "status": "in_progress",
+      "status": "result_ready",
       "currentDraft": {
         "path": "drafts/69cde673-5b36-5503-a387-0fd1a46e8ce2/announcement.json",
         "revision": 1
       },
-      "outputs": [],
+      "outputs": [
+        {
+          "outputId": "e25d112e-a959-8e4a-916c-59e2b788fe8d",
+          "version": 1,
+          "sessionId": "69cde673-5b36-5503-a387-0fd1a46e8ce2",
+          "createdAt": "2026-10-17T14:59:22.167Z",
+          "blobId": "aedd4178-bbab-87f5-be9e-c042acec46b7",
+          "sizeBytes": 6618801,
+          "sha256": "7db95de4a52e90cdc0f01f8dbb2465c5d2100f2bc886caed3b9918963adb583f",
+          "parts": [
+            {
+              "partNumber": 1,
+              "sizeBytes": 6618801,
+              "sha256": "7db95de4a52e90cdc0f01f8dbb2465c5d2100f2bc886caed3b9918963adb583f",
+              "assetName": "blob-aedd4178-bbab-87f5-be9e-c042acec46b7-part-0001.bin",
+              "assetId": 650750169,
+              "downloadUrl": "https://github.com/meser-recovery/audio-archive/releases/download/audio-session-69cde673-5b36-5503-a387-0fd1a46e8ce2/blob-aedd4178-bbab-87f5-be9e-c042acec46b7-part-0001.bin"
+            }
+          ],
+          "recipeSnapshotRef": "recipes/69cde673-5b36-5503-a387-0fd1a46e8ce2/announcement/e25d112e-a959-8e4a-916c-59e2b788fe8d.json",
+          "processorVersion": "s07-v1"
+        }
+      ],
       "deletedVersions": [],
       "nextVersion": 2
     },
