@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 12,
+  "revision": 13,
   "id": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
   "title": "Орен",
-  "recordedAt": null,
+  "recordedAt": "2026-07-27T21:00:00.000Z",
   "createdAt": "2026-09-24T22:01:56.308Z",
-  "updatedAt": "2026-10-18T18:06:38.594Z",
+  "updatedAt": "2026-10-18T19:29:38.204Z",
   "origin": {
     "kind": "device",
     "externalId": null
