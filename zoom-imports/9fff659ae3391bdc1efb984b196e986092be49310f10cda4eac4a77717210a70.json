@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "id": "9fff659ae3391bdc1efb984b196e986092be49310f10cda4eac4a77717210a70",
+  "revision": 1,
+  "connectionId": "603c0548-ab43-46ff-8dfd-68a60f90c60d",
+  "connectionRevision": 1,
+  "occurrenceUuid": "u6QkiXcySBGaqOQ7XH8S1Q==",
+  "recordedAt": "2026-10-26T17:46:28Z",
+  "title": "Zoom · 26.10.2026, 20:46 МСК",
+  "files": [
+    {
+      "id": "58ce18b2-b706-4ae8-959a-fa7bfe5e772e",
+      "name": "Audio only - Yulya.m4a",
+      "sizeBytes": 18099980,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "4cc41347-b8da-4c31-bcab-7c099c536614",
+      "name": "Audio only - Гульфия.m4a",
+      "sizeBytes": 2888421,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "5828fb44-eaf8-4e36-a985-1f70f7e86e01",
+      "name": "Audio only - Vladislav Zh.m4a",
+      "sizeBytes": 2396857,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "79c49a27-4670-4202-b801-b42c244f163f",
+      "name": "Audio only - Vladislav Zh.m4a",
+      "sizeBytes": 2018501,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "d91817e4-f960-4f2d-9b7a-60952b5f5d7c",
+      "name": "Audio only - Zhenya - ז'ניה.m4a",
+      "sizeBytes": 1875782,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "6c6bb086-3e02-43c1-8454-bbba9fa509a4",
+      "name": "Audio only - Борис💫✌️.m4a",
+      "sizeBytes": 1087184,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "5bdaa1c9-3ca5-4f62-b670-c73396956289",
+      "name": "Audio only - Nata.m4a",
+      "sizeBytes": 1085924,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "cf3ad715-911c-4282-93d8-45834db874b7",
+      "name": "Audio only - Alex.m4a",
+      "sizeBytes": 1081132,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "6abd3acc-1178-4899-aa90-0bebd70fe00f",
+      "name": "Audio only - Мирра.m4a",
+      "sizeBytes": 1074552,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "497db74f-d38f-4146-9069-c721d22528b4",
+      "name": "Audio only - Danik* гр Мэсэр.m4a",
+      "sizeBytes": 1051700,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    },
+    {
+      "id": "529d3d84-c8ac-4429-b859-0755420f7b6c",
+      "name": "Audio only - Пользователь Zoom.m4a",
+      "sizeBytes": 1050547,
+      "startTime": "2026-10-26T18:28:05Z",
+      "endTime": "2026-10-26T18:58:22Z"
+    }
+  ],
+  "idempotencyKey": "zoom:9fff659ae3391bdc1efb984b196e986092be49310f10cda4eac4a77717210a70",
+  "transactionId": "b8703a8f-dfd7-5466-bcb9-fb49cd610642",
+  "state": "reserved",
+  "plan": null
+}
