@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 45,
-  "updatedAt": "2026-10-31T20:20:26.499Z",
+  "revision": 46,
+  "updatedAt": "2026-10-31T21:17:36.584Z",
   "entries": [
     {
       "id": "302dbdcb-efc5-5c6c-aea4-9b8a78a0ea66",
@@ -22,13 +22,13 @@
       "title": "Zoom · 26.10.2026, 20:46 МСК",
       "recordedAt": "2026-10-26T17:46:28Z",
       "createdAt": "2026-10-31T20:14:27.308Z",
-      "updatedAt": "2026-10-31T20:20:19.344Z",
+      "updatedAt": "2026-10-31T21:17:36.322Z",
       "origin": "zoom_cloud",
       "lifecycle": "incoming",
       "sourceState": "available",
       "workflows": {
         "announcement": "new",
-        "speaker": "new"
+        "speaker": "in_progress"
       }
     }
   ]
