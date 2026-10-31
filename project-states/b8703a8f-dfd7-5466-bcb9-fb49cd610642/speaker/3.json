@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "sessionId": "b8703a8f-dfd7-5466-bcb9-fb49cd610642",
+  "workflow": "speaker",
+  "draftRevision": 3,
+  "sourceSessionRevision": 4,
+  "savedAt": "2026-10-31T21:21:50.998Z",
+  "payloadSchema": "speaker/v1",
+  "payload": {
+    "trackIds": [
+      "2f5ed581-6a11-8266-8233-a97c3d7228ac",
+      "dc82dd09-1fe3-8727-bd94-918d6f17668f",
+      "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+      "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+      "f4a0b582-293e-8bd4-9ca9-b44447c71f88",
+      "f731730c-f20f-8a0e-ade7-709e613b6c62",
+      "f398e6d1-4df7-8f16-93d9-fcacc89bdcf2",
+      "00c888fc-150a-84dc-b2e1-9b7b2100f919",
+      "cfc9841c-e9b1-8e45-a613-68e352627de0",
+      "23515e16-a5e4-8107-826d-ff42fbdef7bf",
+      "4a60e02f-2345-8a89-951b-e7588c9f24a3"
+    ],
+    "excludedTrackIds": [
+      "23515e16-a5e4-8107-826d-ff42fbdef7bf",
+      "4a60e02f-2345-8a89-951b-e7588c9f24a3"
+    ],
+    "globalCuts": [
+      {
+        "regionId": "2eb9b2aa-3e79-49db-9d12-39b34afe6151",
+        "startSeconds": 0,
+        "endSeconds": 3.151197
+      },
+      {
+        "regionId": "fbe6f3d4-ece2-4a15-a308-48aeaaf5f0a9",
+        "startSeconds": 1803.40285,
+        "endSeconds": 1815.936
+      }
+    ],
+    "trackSilenceRegions": [
+      {
+        "regionId": "19e59183-69d3-4a8d-ac05-9f18bfdaf87c",
+        "trackId": "2f5ed581-6a11-8266-8233-a97c3d7228ac",
+        "startSeconds": 784.968558,
+        "endSeconds": 788.223328
+      },
+      {
+        "regionId": "637135e3-ba24-435c-9961-66598e1e634f",
+        "trackId": "2f5ed581-6a11-8266-8233-a97c3d7228ac",
+        "startSeconds": 820.426978,
+        "endSeconds": 821.604517
+      },
+      {
+        "regionId": "9bee4fab-fa50-440f-a914-30b820c50826",
+        "trackId": "2f5ed581-6a11-8266-8233-a97c3d7228ac",
+        "startSeconds": 1216.98745,
+        "endSeconds": 1218.46822
+      },
+      {
+        "regionId": "1714e154-50e3-4095-9989-3c745796afe0",
+        "trackId": "2f5ed581-6a11-8266-8233-a97c3d7228ac",
+        "startSeconds": 1636.954714,
+        "endSeconds": 1639.837343
+      },
+      {
+        "regionId": "3b9ed46c-0963-4dfb-8fc3-927d7e6f07c8",
+        "trackId": "2f5ed581-6a11-8266-8233-a97c3d7228ac",
+        "startSeconds": 1678.422015,
+        "endSeconds": 1681.067095
+      },
+      {
+        "regionId": "864230d8-e3ba-49f5-b966-4ac770434457",
+        "trackId": "2f5ed581-6a11-8266-8233-a97c3d7228ac",
+        "startSeconds": 1705.301129,
+        "endSeconds": 1706.068513
+      },
+      {
+        "regionId": "bec60951-7956-4732-ba27-5aad6100dcc6",
+        "trackId": "dc82dd09-1fe3-8727-bd94-918d6f17668f",
+        "startSeconds": 7.453826,
+        "endSeconds": 12.955955
+      },
+      {
+        "regionId": "34706098-3229-4578-8107-eaf2627e2434",
+        "trackId": "dc82dd09-1fe3-8727-bd94-918d6f17668f",
+        "startSeconds": 749.306877,
+        "endSeconds": 751.819169
+      },
+      {
+        "regionId": "a6784e3d-2aed-43be-a0a0-dce2c6cdd780",
+        "trackId": "dc82dd09-1fe3-8727-bd94-918d6f17668f",
+        "startSeconds": 924.663345,
+        "endSeconds": 925.990929
+      },
+      {
+        "regionId": "155e15eb-60d1-4fe8-ac2e-bc8754cbe333",
+        "trackId": "dc82dd09-1fe3-8727-bd94-918d6f17668f",
+        "startSeconds": 928.863108,
+        "endSeconds": 1197.855856
+      },
+      {
+        "regionId": "63855d9f-694d-444d-99ba-99828661ffc4",
+        "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+        "startSeconds": 1.754948,
+        "endSeconds": 2.725231
+      },
+      {
+        "regionId": "a3e1239c-ef85-490a-866e-9989ad82b54f",
+        "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+        "startSeconds": 963.134152,
+        "endSeconds": 965.605311
+      },
+      {
+        "regionId": "a7d41150-fd9b-4ff2-95fc-edca91232ede",
+        "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+        "startSeconds": 996.982526,
+        "endSeconds": 999.421172
+      },
+      {
+        "regionId": "f38b41ad-346d-42f8-b31b-40c4b2e84ff6",
+        "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+        "startSeconds": 1002.838907,
+        "endSeconds": 1003.172537
+      },
+      {
+        "regionId": "5c57de24-553b-477b-8317-a5408b80df44",
+        "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+        "startSeconds": 1005.276561,
+        "endSeconds": 1005.647859
+      },
+      {
+        "regionId": "543c30ee-58d3-4175-9ede-09b84defec40",
+        "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+        "startSeconds": 1014.064565,
+        "endSeconds": 1015.406088
+      },
+      {
+        "regionId": "179aba18-b211-4b0b-90ae-0f23131ec8d3",
+        "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+        "startSeconds": 1018.949749,
+        "endSeconds": 1019.835661
+      },
+      {
+        "regionId": "0e389021-c8d1-437c-90db-9eaa48a39fa3",
+        "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+        "startSeconds": 1052.242226,
+        "endSeconds": 1053.079433
+      },
+      {
+        "regionId": "2dd7ff69-a919-443f-93e6-e340d83eed6f",
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "startSeconds": 1190.793192,
+        "endSeconds": 1193.754726
+      },
+      {
+        "regionId": "3b5b6597-5c75-4af0-9bc0-8afd04b57317",
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "startSeconds": 1198.55446,
+        "endSeconds": 1202.077669
+      },
+      {
+        "regionId": "4f3b1e8b-c795-42a4-ba2e-4f9032f9718d",
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "startSeconds": 1220.8564,
+        "endSeconds": 1223.502555
+      },
+      {
+        "regionId": "c8320174-aace-4482-8859-5101debbfb18",
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "startSeconds": 1300.308716,
+        "endSeconds": 1303.028636
+      },
+      {
+        "regionId": "c43b9bcb-4125-405c-9408-4fadbe450d21",
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "startSeconds": 1304.501244,
+        "endSeconds": 1310.620663
+      },
+      {
+        "regionId": "8cb00fb8-1431-4b1f-96de-cc9ae1f184f4",
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "startSeconds": 1354.937003,
+        "endSeconds": 1356.802541
+      },
+      {
+        "regionId": "a464d8f5-7471-4f71-9a1f-7ed43c80040d",
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "startSeconds": 1514.011145,
+        "endSeconds": 1514.836391
+      },
+      {
+        "regionId": "c694fef4-0058-4dbc-b8ec-0ae4a2596511",
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "startSeconds": 1647.71475,
+        "endSeconds": 1650.035704
+      },
+      {
+        "regionId": "80bbbff4-f037-4ca5-901e-c164abbd08c3",
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "startSeconds": 1803.831407,
+        "endSeconds": 1806.895069
+      }
+    ],
+    "trackProcessing": [
+      {
+        "trackId": "2f5ed581-6a11-8266-8233-a97c3d7228ac",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "dc82dd09-1fe3-8727-bd94-918d6f17668f",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "f4a0b582-293e-8bd4-9ca9-b44447c71f88",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "f731730c-f20f-8a0e-ade7-709e613b6c62",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "f398e6d1-4df7-8f16-93d9-fcacc89bdcf2",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "00c888fc-150a-84dc-b2e1-9b7b2100f919",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "cfc9841c-e9b1-8e45-a613-68e352627de0",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "23515e16-a5e4-8107-826d-ff42fbdef7bf",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "4a60e02f-2345-8a89-951b-e7588c9f24a3",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "trackId": "2f5ed581-6a11-8266-8233-a97c3d7228ac",
+      "blobId": "5b308080-ce5d-8a03-9809-c5c614b75097",
+      "ordinal": 1,
+      "originalName": "Audio only - Yulya.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 18099980,
+      "sha256": "e74f5c37bd52c64405b819f2d58fb5b1a5dcd51e19ef9f2b04bf9ea9a9f11c8f"
+    },
+    {
+      "trackId": "dc82dd09-1fe3-8727-bd94-918d6f17668f",
+      "blobId": "5b56d81e-2b42-8363-97ed-2a54be6f6e8d",
+      "ordinal": 2,
+      "originalName": "Audio only - Гульфия.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2888421,
+      "sha256": "05d2f3e078472232ad90f31f85fd99e8c29ee9dfee674a4bcc94151b56dca229"
+    },
+    {
+      "trackId": "1db6978c-0bd7-8e8e-81fe-b60ba0bcf803",
+      "blobId": "9c05d61d-73aa-8dbb-91fa-3cb8022a8c1b",
+      "ordinal": 3,
+      "originalName": "Audio only - Vladislav Zh.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2396857,
+      "sha256": "a9fa4119c2305d7dcbc468efac81b305f4650b8f857746b66d012af970509793"
+    },
+    {
+      "trackId": "8638dd7c-5f4f-8359-a2f3-f1a4dba5e980",
+      "blobId": "13af0b52-e857-8d28-9d53-3af26dea90ea",
+      "ordinal": 4,
+      "originalName": "Audio only - Vladislav Zh.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2018501,
+      "sha256": "df575cbbfffc1cddb2d97c11a5d2fd97c5298f9fb7e39e70723d1ff72eebecca"
+    },
+    {
+      "trackId": "f4a0b582-293e-8bd4-9ca9-b44447c71f88",
+      "blobId": "2e0feb5f-4138-8dbb-9642-5f265f818c2e",
+      "ordinal": 5,
+      "originalName": "Audio only - Zhenya - ז'ניה.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 1875782,
+      "sha256": "5519d8425d63fd931eead3366134be6ee217d0de52888a1fd2489fa406305f8e"
+    },
+    {
+      "trackId": "f731730c-f20f-8a0e-ade7-709e613b6c62",
+      "blobId": "c69d7ca1-aff8-8efc-9960-e81dbcdabcbe",
+      "ordinal": 6,
+      "originalName": "Audio only - Борис💫✌️.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 1087184,
+      "sha256": "5fa402b111cc4041530a0cc4f4b1c8e4ce7d7c53334b7a0b6b8bfe7509208017"
+    },
+    {
+      "trackId": "f398e6d1-4df7-8f16-93d9-fcacc89bdcf2",
+      "blobId": "03a748b5-1d0c-8139-a844-829155469b94",
+      "ordinal": 7,
+      "originalName": "Audio only - Nata.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 1085924,
+      "sha256": "270f4c75121009257d8008749ef26b98b3265bbe5000d64454996223b5330db1"
+    },
+    {
+      "trackId": "00c888fc-150a-84dc-b2e1-9b7b2100f919",
+      "blobId": "52780202-487a-8aa5-ba9c-0ac13a42953e",
+      "ordinal": 8,
+      "originalName": "Audio only - Alex.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 1081132,
+      "sha256": "32c1505905edc6fad1ad0c530f5f3c56512e656f31c315aeb0c1c6d4407cc88e"
+    },
+    {
+      "trackId": "cfc9841c-e9b1-8e45-a613-68e352627de0",
+      "blobId": "f7d120a4-23fa-8bc8-a6bf-9c8acffa522f",
+      "ordinal": 9,
+      "originalName": "Audio only - Мирра.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 1074552,
+      "sha256": "aa8b314b7dc2ed59a479ff7ae1d52e73aa838d8d5f271f00437355e921942261"
+    },
+    {
+      "trackId": "23515e16-a5e4-8107-826d-ff42fbdef7bf",
+      "blobId": "c107d1a8-a4be-871a-806d-450848d13389",
+      "ordinal": 10,
+      "originalName": "Audio only - Danik* гр Мэсэр.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 1051700,
+      "sha256": "12ad7b3d6674b1e7da4b264d372d221b678b7fe0af0baf0b3a5fac7649262627"
+    },
+    {
+      "trackId": "4a60e02f-2345-8a89-951b-e7588c9f24a3",
+      "blobId": "956247b6-aad4-8162-8aec-bf1d02997f71",
+      "ordinal": 11,
+      "originalName": "Audio only - Пользователь Zoom.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 1050547,
+      "sha256": "905c7fa864f14b77f2f5f1e34259784915c2771e7beb36346f943283aef5eb02"
+    }
+  ],
+  "stateFingerprint": "407e2e3fe1dde17e4124a842139ede9933f1b7aeb3f41120a74472f53f76dae1"
+}
