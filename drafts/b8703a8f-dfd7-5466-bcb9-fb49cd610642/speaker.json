@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionId": "b8703a8f-dfd7-5466-bcb9-fb49cd610642",
   "workflow": "speaker",
-  "draftRevision": 1,
-  "sourceSessionRevision": 2,
-  "savedAt": "2026-10-31T21:17:35.979Z",
+  "draftRevision": 2,
+  "sourceSessionRevision": 3,
+  "savedAt": "2026-10-31T21:19:02.592Z",
   "payloadSchema": "speaker/v1",
   "payload": {
     "trackIds": [
