@@ -1,7 +1,7 @@
 {
   "version": 1,
   "id": "149e9bfa7c0103bc19ed9dd6372595fbd87f7a818482efc05beeca77a3ac7d00",
-  "revision": 2,
+  "revision": 3,
   "connectionId": "603c0548-ab43-46ff-8dfd-68a60f90c60d",
   "connectionRevision": 1,
   "occurrenceUuid": "me2Y7QT+Sj2WY+vgwE1JIw==",
@@ -102,7 +102,7 @@
   ],
   "idempotencyKey": "zoom:149e9bfa7c0103bc19ed9dd6372595fbd87f7a818482efc05beeca77a3ac7d00",
   "transactionId": "0e73ed40-2b50-53d7-8ae8-00b6f5bbc580",
-  "state": "bound",
+  "state": "completed",
   "plan": {
     "totalBytes": 85768069,
     "tracks": [
