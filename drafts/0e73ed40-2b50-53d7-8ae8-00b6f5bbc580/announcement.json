@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "sessionId": "0e73ed40-2b50-53d7-8ae8-00b6f5bbc580",
+  "workflow": "announcement",
+  "draftRevision": 1,
+  "sourceSessionRevision": 2,
+  "savedAt": "2026-11-03T21:46:20.908Z",
+  "payloadSchema": "announcement/v1",
+  "payload": {
+    "trackIds": [
+      "6ddb3610-55d2-8a4c-9518-636141c2a11b"
+    ]
+  }
+}
