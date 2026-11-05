@@ -4,8 +4,8 @@
   "transactionId": "f35b16c3-35af-5d93-83bf-3140e07b3cba",
   "idempotencyHash": "1d55f5ac6d9a43be6cfc2105a7b149c9c952bd8e3f5d3c4d7c14926b27234d5f",
   "requestFingerprint": "a9fd36530518bdaed35397ff2a9951ada0797bd2c1ed54bddd8fc52410e6f414",
-  "revision": 5,
-  "state": "uploading",
+  "revision": 6,
+  "state": "finalizing",
   "sessionId": "0e73ed40-2b50-53d7-8ae8-00b6f5bbc580",
   "workflow": "speaker",
   "outputId": "c931be5a-c882-8f6d-b811-c3981bc0a7b2",
@@ -6981,5 +6981,5 @@
   "outputDescriptor": null,
   "failure": null,
   "createdAt": "2026-11-05T00:40:29.432Z",
-  "updatedAt": "2026-11-05T00:41:29.858Z"
+  "updatedAt": "2026-11-05T00:41:34.084Z"
 }
