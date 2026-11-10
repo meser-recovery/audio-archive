@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 61,
-  "updatedAt": "2026-11-10T11:43:25.663Z",
+  "revision": 62,
+  "updatedAt": "2026-11-10T12:41:59.392Z",
   "entries": [
     {
       "id": "0e73ed40-2b50-53d7-8ae8-00b6f5bbc580",
@@ -50,7 +50,7 @@
       "title": "Zoom · 09.11.2026, 20:32 МСК",
       "recordedAt": "2026-11-09T17:32:32Z",
       "createdAt": "2026-11-10T09:37:44.859Z",
-      "updatedAt": "2026-11-10T11:43:25.397Z",
+      "updatedAt": "2026-11-10T12:41:59.105Z",
       "origin": "zoom_cloud",
       "lifecycle": "incoming",
       "sourceState": "available",
