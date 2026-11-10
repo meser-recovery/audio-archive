@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionId": "cf1c246d-99d9-5080-a461-e630fc44d73a",
   "workflow": "speaker",
-  "draftRevision": 5,
-  "sourceSessionRevision": 6,
-  "savedAt": "2026-11-10T16:54:16.069Z",
+  "draftRevision": 6,
+  "sourceSessionRevision": 7,
+  "savedAt": "2026-11-10T16:56:47.331Z",
   "payloadSchema": "speaker/v1",
   "payload": {
     "trackIds": [
@@ -1071,20 +1071,20 @@
     "trackProcessing": [
       {
         "trackId": "a922bcea-c937-85d6-871a-8ee6864a632b",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
         "trackId": "08a0e3b3-6516-8751-8db9-99370eafda29",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
         "trackId": "eaab3419-c689-8254-b60b-4587103ba7bd",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
