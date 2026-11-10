@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "sessionId": "cf1c246d-99d9-5080-a461-e630fc44d73a",
+  "workflow": "speaker",
+  "draftRevision": 1,
+  "sourceSessionRevision": 2,
+  "savedAt": "2026-11-10T11:04:28.001Z",
+  "payloadSchema": "speaker/v1",
+  "payload": {
+    "trackIds": [
+      "a922bcea-c937-85d6-871a-8ee6864a632b",
+      "eaab3419-c689-8254-b60b-4587103ba7bd",
+      "08a0e3b3-6516-8751-8db9-99370eafda29",
+      "6a5b2400-738e-8920-a58f-8c451269bd7c",
+      "d2eb10bc-f912-8739-a8da-e3db496eaf9c",
+      "fcb83250-1361-8420-8973-5e32d4497ff3",
+      "f98ca560-7c66-8c00-99a1-d256c86be29f",
+      "b8f9eef2-357a-884e-a2f3-8751a963f2a1",
+      "7b633dd5-6bfb-89e6-8ff0-ce5c94b5beb5",
+      "974b32d7-543d-8129-9c89-d1af30ce664a"
+    ],
+    "excludedTrackIds": [
+      "b8f9eef2-357a-884e-a2f3-8751a963f2a1",
+      "7b633dd5-6bfb-89e6-8ff0-ce5c94b5beb5",
+      "974b32d7-543d-8129-9c89-d1af30ce664a"
+    ],
+    "globalCuts": [],
+    "trackSilenceRegions": [
+      {
+        "regionId": "b8a13911-35ab-4ab8-9be6-bed1231ecf59",
+        "trackId": "fcb83250-1361-8420-8973-5e32d4497ff3",
+        "startSeconds": 2599.515526,
+        "endSeconds": 2602.102555
+      }
+    ],
+    "trackProcessing": [
+      {
+        "trackId": "a922bcea-c937-85d6-871a-8ee6864a632b",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "eaab3419-c689-8254-b60b-4587103ba7bd",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "08a0e3b3-6516-8751-8db9-99370eafda29",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "6a5b2400-738e-8920-a58f-8c451269bd7c",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "d2eb10bc-f912-8739-a8da-e3db496eaf9c",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "fcb83250-1361-8420-8973-5e32d4497ff3",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "f98ca560-7c66-8c00-99a1-d256c86be29f",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "b8f9eef2-357a-884e-a2f3-8751a963f2a1",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "7b633dd5-6bfb-89e6-8ff0-ce5c94b5beb5",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "974b32d7-543d-8129-9c89-d1af30ce664a",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "trackId": "a922bcea-c937-85d6-871a-8ee6864a632b",
+      "blobId": "42d51195-ebd1-8c6b-86a2-146f298758f1",
+      "ordinal": 1,
+      "originalName": "Audio only - אורלי סייפן.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 29838736,
+      "sha256": "b08f917e376f78b3557a7181a6ee4013a11e799cb298ec861e46a05f4267c9c9"
+    },
+    {
+      "trackId": "eaab3419-c689-8254-b60b-4587103ba7bd",
+      "blobId": "572d5642-bccb-8cd7-9cf2-ca3b4559499b",
+      "ordinal": 2,
+      "originalName": "Audio only - Zhenya - ז'ניה.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 23384365,
+      "sha256": "d0f25bd0e54b02b133b72016c1caebf43292fbff45bcb3d55ee0a8e6683e5976"
+    },
+    {
+      "trackId": "08a0e3b3-6516-8751-8db9-99370eafda29",
+      "blobId": "8042ad0d-e1bd-837c-85f9-c9c4d6640aa8",
+      "ordinal": 3,
+      "originalName": "Audio only - AF.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 10295929,
+      "sha256": "63a8a8f5cafda08342e02373ac65941303efd41c109a561fd272fb75d32d8c4a"
+    },
+    {
+      "trackId": "6a5b2400-738e-8920-a58f-8c451269bd7c",
+      "blobId": "7cdbafc1-9f6e-862b-a3c7-e57cd53ba410",
+      "ordinal": 4,
+      "originalName": "Audio only - Vladislav Zh.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2736537,
+      "sha256": "fc3d73a5a97a86718e8aab5659ee53f34ebccd8dd38d854748588b3a7b7df651"
+    },
+    {
+      "trackId": "d2eb10bc-f912-8739-a8da-e3db496eaf9c",
+      "blobId": "5bb5a9e5-80e7-8b60-b342-8b6a7aeed510",
+      "ordinal": 5,
+      "originalName": "Audio only - Nata.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2083513,
+      "sha256": "a33c7739a46038cbd10b744e6ca1f6da31c1364c38c01c5c765679af51321144"
+    },
+    {
+      "trackId": "fcb83250-1361-8420-8973-5e32d4497ff3",
+      "blobId": "2d7584cd-352f-8aa0-8695-fe868118bff6",
+      "ordinal": 6,
+      "originalName": "Audio only - Danik* гр Мэсэр.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2063245,
+      "sha256": "0bdf44f760836c3ff5ddf9321f90cf6183208674f6e65a8224efe0bbddb1a39a"
+    },
+    {
+      "trackId": "f98ca560-7c66-8c00-99a1-d256c86be29f",
+      "blobId": "de21cc09-ef76-85d7-926c-ded3de31df29",
+      "ordinal": 8,
+      "originalName": "Audio only - Levy.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2049412,
+      "sha256": "4629ffdc97f2d4e473c88358ddb133f659e765110709f26c692bc11ec6b6df2c"
+    },
+    {
+      "trackId": "b8f9eef2-357a-884e-a2f3-8751a963f2a1",
+      "blobId": "8760f959-8d12-8464-986b-5581e9fbacad",
+      "ordinal": 7,
+      "originalName": "Audio only - Мирра.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2049474,
+      "sha256": "93a44e3d9561f82a7d492c1fe4cd7334a8bc0a222785183badc58f2af6a2b0fa"
+    },
+    {
+      "trackId": "7b633dd5-6bfb-89e6-8ff0-ce5c94b5beb5",
+      "blobId": "ee3e32fe-0f00-8f20-9f5d-b3a22ae37656",
+      "ordinal": 9,
+      "originalName": "Audio only - Стас.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2019940,
+      "sha256": "99306bcfab4242c01a13a2081f29bce3e7ffb3ca2112316f4ed0b6535401ab1e"
+    },
+    {
+      "trackId": "974b32d7-543d-8129-9c89-d1af30ce664a",
+      "blobId": "d7eea523-8d80-8183-af26-523712736435",
+      "ordinal": 10,
+      "originalName": "Audio only - Пользователь Zoom.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2018189,
+      "sha256": "bfd91223b749f8b4dd0962904b3dad81942b3491642e5559855db7b033b55011"
+    }
+  ],
+  "stateFingerprint": "413d3877ee294c74ee4ae144f6a5763c4892fce562ba5c77b3cc311a9e554267"
+}
