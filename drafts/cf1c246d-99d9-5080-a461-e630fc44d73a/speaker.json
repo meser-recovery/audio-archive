@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionId": "cf1c246d-99d9-5080-a461-e630fc44d73a",
   "workflow": "speaker",
-  "draftRevision": 1,
-  "sourceSessionRevision": 2,
-  "savedAt": "2026-11-10T11:04:28.001Z",
+  "draftRevision": 2,
+  "sourceSessionRevision": 3,
+  "savedAt": "2026-11-10T11:43:25.112Z",
   "payloadSchema": "speaker/v1",
   "payload": {
     "trackIds": [
@@ -26,6 +26,54 @@
     ],
     "globalCuts": [],
     "trackSilenceRegions": [
+      {
+        "regionId": "9837d3b1-69cd-483c-b2f0-afe7fed74412",
+        "trackId": "eaab3419-c689-8254-b60b-4587103ba7bd",
+        "startSeconds": 21.967543,
+        "endSeconds": 23.725574
+      },
+      {
+        "regionId": "408479a4-ffeb-4abd-ac17-1445cb0d80c6",
+        "trackId": "eaab3419-c689-8254-b60b-4587103ba7bd",
+        "startSeconds": 2897.916936,
+        "endSeconds": 2901.114209
+      },
+      {
+        "regionId": "d880db6b-b8e7-4e92-9c93-2f5c139794f7",
+        "trackId": "eaab3419-c689-8254-b60b-4587103ba7bd",
+        "startSeconds": 2925.69194,
+        "endSeconds": 2947.792904
+      },
+      {
+        "regionId": "d5deaa4f-ea6f-4e96-a639-3ddd817377c1",
+        "trackId": "08a0e3b3-6516-8751-8db9-99370eafda29",
+        "startSeconds": 3077.400603,
+        "endSeconds": 3079.752869
+      },
+      {
+        "regionId": "a27594b5-4de5-4b8e-814b-cafca97c7098",
+        "trackId": "08a0e3b3-6516-8751-8db9-99370eafda29",
+        "startSeconds": 3121.727549,
+        "endSeconds": 3122.726605
+      },
+      {
+        "regionId": "c298640a-42bf-4f8e-a93f-884beb397636",
+        "trackId": "08a0e3b3-6516-8751-8db9-99370eafda29",
+        "startSeconds": 3235.598496,
+        "endSeconds": 3236.418911
+      },
+      {
+        "regionId": "3ba8f733-0d85-4ee1-9594-7b03f4528961",
+        "trackId": "6a5b2400-738e-8920-a58f-8c451269bd7c",
+        "startSeconds": 3485.040348,
+        "endSeconds": 3485.7412
+      },
+      {
+        "regionId": "50d2c9aa-305d-4f0f-9192-20555a55ab04",
+        "trackId": "6a5b2400-738e-8920-a58f-8c451269bd7c",
+        "startSeconds": 3504.500418,
+        "endSeconds": 3504.700406
+      },
       {
         "regionId": "b8a13911-35ab-4ab8-9be6-bed1231ecf59",
         "trackId": "fcb83250-1361-8420-8973-5e32d4497ff3",
