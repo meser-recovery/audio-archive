@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 9,
+  "revision": 10,
   "id": "cf1c246d-99d9-5080-a461-e630fc44d73a",
   "title": "Zoom · 09.11.2026, 20:32 МСК",
   "recordedAt": "2026-11-09T17:32:32Z",
   "createdAt": "2026-11-10T09:37:44.859Z",
-  "updatedAt": "2026-11-12T00:41:52.498Z",
+  "updatedAt": "2026-11-12T01:09:06.063Z",
   "origin": {
     "kind": "zoom_cloud",
     "externalId": "55247a0c45fe754f8d188e0720873408002bd6e4c8f811c576c14d2a986f7b62"
@@ -245,7 +245,7 @@
       },
       "outputs": [],
       "deletedVersions": [],
-      "nextVersion": 1
+      "nextVersion": 2
     }
   },
   "relations": {
