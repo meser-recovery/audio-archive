@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "kind": "ingestion",
+  "transactionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
+  "idempotencyHash": "f8144d165d48a59c398368fe2fddc03a79bf7f7170be8934b520a00d0d98c0b0",
+  "revision": 1,
+  "state": "uploading",
+  "sessionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
+  "releaseId": 450251608,
+  "releaseTag": "audio-session-f8144d16-5d48-559c-b983-68fe2fddc03a",
+  "title": "Zoom · 16.11.2026, 20:33 МСК",
+  "recordedAt": "2026-11-16T17:33:41Z",
+  "origin": "zoom_cloud",
+  "supersedesSessionId": null,
+  "plan": {
+    "totalBytes": 73911379,
+    "tracks": [
+      {
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "blobId": "5a300e1b-c5c5-8716-b9dd-24f049e932e0",
+        "ordinal": 1,
+        "originalName": "Audio only - עידית לוי.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 29011840,
+        "sha256": "5b6e186b54bf5eae65b465153bdd115d0e63756ae860b098108024952f259663",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 16777216,
+            "sha256": "cf8d51deded6c2d30b9c0d4fc59f62f0592093edee3285118eb3c4e8f13d50fc",
+            "assetName": "blob-5a300e1b-c5c5-8716-b9dd-24f049e932e0-part-0001.bin"
+          },
+          {
+            "partNumber": 2,
+            "sizeBytes": 12234624,
+            "sha256": "6aa65c16cc4c66f5521e9396ab55e12323e0e4ef7fede2f19ab53a7983e54301",
+            "assetName": "blob-5a300e1b-c5c5-8716-b9dd-24f049e932e0-part-0002.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "blobId": "14aedbbf-3148-8686-bffc-58fd46b779ac",
+        "ordinal": 2,
+        "originalName": "Audio only - Zhenya - ז'ניה.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 20670976,
+        "sha256": "b5f4bf2fc8d5836dac522a4d5de481e170fd659ad12fd4b9e923e7ec1ee7dce4",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 16777216,
+            "sha256": "cc3b112c72aa163beef31c6ba60a3962caaa442aebd93c2711c77dd107b6ea8b",
+            "assetName": "blob-14aedbbf-3148-8686-bffc-58fd46b779ac-part-0001.bin"
+          },
+          {
+            "partNumber": 2,
+            "sizeBytes": 3893760,
+            "sha256": "21c21dfe6127140978d4930dfd58dfd4ffeaaedaa474a41e5b52c5dd7e838af7",
+            "assetName": "blob-14aedbbf-3148-8686-bffc-58fd46b779ac-part-0002.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "blobId": "b2de4913-87dd-8a23-b1ad-8df01e7c9544",
+        "ordinal": 3,
+        "originalName": "Audio only - AF.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 11412163,
+        "sha256": "ab19c2858ab7169742bf9030efc60b35757a1a224393d630ea17a6c0b1d3554a",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 11412163,
+            "sha256": "ab19c2858ab7169742bf9030efc60b35757a1a224393d630ea17a6c0b1d3554a",
+            "assetName": "blob-b2de4913-87dd-8a23-b1ad-8df01e7c9544-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "62381451-55ea-86ec-b646-2b6e7b867a0d",
+        "blobId": "29030140-8479-8b3f-8cc8-9584ed1344d7",
+        "ordinal": 4,
+        "originalName": "Audio only - Мирра.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2544850,
+        "sha256": "6f455df9277e4b4d78d3ab58da102eedcb49ecdd2ba94673fcfadd204c496cd2",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 2544850,
+            "sha256": "6f455df9277e4b4d78d3ab58da102eedcb49ecdd2ba94673fcfadd204c496cd2",
+            "assetName": "blob-29030140-8479-8b3f-8cc8-9584ed1344d7-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "a22273ab-9394-8e73-82f8-6dc4d67047e3",
+        "blobId": "2807868e-6c97-8441-8395-e4f856f8d0ce",
+        "ordinal": 5,
+        "originalName": "Audio only - Nata.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2178604,
+        "sha256": "c41b8ca3d4d8cfe9b2aff549daa30b96c10535bd1ad79499f7ba0647070be3f3",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 2178604,
+            "sha256": "c41b8ca3d4d8cfe9b2aff549daa30b96c10535bd1ad79499f7ba0647070be3f3",
+            "assetName": "blob-2807868e-6c97-8441-8395-e4f856f8d0ce-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "13c059cb-a897-8228-9545-5309c7ae9531",
+        "blobId": "5f2de548-fb97-8bcc-ab82-b4f3e3fc24e0",
+        "ordinal": 6,
+        "originalName": "Audio only - Станислав я.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2062332,
+        "sha256": "a66d5523794af8b7bd4babfc99082757f5cd96fc1fb909521804c2f442628984",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 2062332,
+            "sha256": "a66d5523794af8b7bd4babfc99082757f5cd96fc1fb909521804c2f442628984",
+            "assetName": "blob-5f2de548-fb97-8bcc-ab82-b4f3e3fc24e0-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "ec667c90-4c18-828f-9f44-4b8c602b7409",
+        "blobId": "23f75521-aef4-81d9-ae15-2b02ce49721e",
+        "ordinal": 7,
+        "originalName": "Audio only - Vladislav Zh.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2019620,
+        "sha256": "b32a6204bb78c9b71162ded8ae1d6667563958edc2074888daf6951b1b44076f",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 2019620,
+            "sha256": "b32a6204bb78c9b71162ded8ae1d6667563958edc2074888daf6951b1b44076f",
+            "assetName": "blob-23f75521-aef4-81d9-ae15-2b02ce49721e-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "9ef968b3-5839-8f45-99f4-2d1c8133466a",
+        "blobId": "32b4b2fd-641a-8da1-ac44-9bf81ddbcc49",
+        "ordinal": 8,
+        "originalName": "Audio only - Katrin -.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2006641,
+        "sha256": "bd7fa249fdf37ccea01c2c67f3ea4b342744d3f0be12b7ee2cff47bea4062e36",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 2006641,
+            "sha256": "bd7fa249fdf37ccea01c2c67f3ea4b342744d3f0be12b7ee2cff47bea4062e36",
+            "assetName": "blob-32b4b2fd-641a-8da1-ac44-9bf81ddbcc49-part-0001.bin"
+          }
+        ]
+      },
+      {
+        "trackId": "ead1d2e0-2808-8951-9327-ef3c3896e7d7",
+        "blobId": "3503da73-3a3b-8f9e-a39c-588234a281e0",
+        "ordinal": 9,
+        "originalName": "Audio only - Danik* гр Мэсэр.m4a",
+        "mediaType": "audio/mp4",
+        "sizeBytes": 2004353,
+        "sha256": "75145f7718ec3d3e78b4d4b6937aa258ee937c917bcd76331605131cf57085ad",
+        "parts": [
+          {
+            "partNumber": 1,
+            "sizeBytes": 2004353,
+            "sha256": "75145f7718ec3d3e78b4d4b6937aa258ee937c917bcd76331605131cf57085ad",
+            "assetName": "blob-3503da73-3a3b-8f9e-a39c-588234a281e0-part-0001.bin"
+          }
+        ]
+      }
+    ]
+  },
+  "uploadedParts": [],
+  "stagedManifest": null,
+  "createdAt": "2026-11-18T16:25:52.024Z",
+  "updatedAt": "2026-11-18T16:25:52.024Z",
+  "zoomImportId": "7896f438a305ea32840f72f6b9572eff37687fe1f18834eb8e85f1e1437314c6"
+}
