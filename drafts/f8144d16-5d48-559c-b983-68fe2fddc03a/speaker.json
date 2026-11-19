@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
   "workflow": "speaker",
-  "draftRevision": 2,
-  "sourceSessionRevision": 3,
-  "savedAt": "2026-11-18T18:08:07.566Z",
+  "draftRevision": 3,
+  "sourceSessionRevision": 4,
+  "savedAt": "2026-11-19T12:22:30.600Z",
   "payloadSchema": "speaker/v1",
   "payload": {
     "trackIds": [
@@ -257,6 +257,101 @@
         "regionId": "b0bfd5c0-f291-48cd-9f16-5d25185dfa14",
         "startSeconds": 591.974699,
         "endSeconds": 592.5161
+      },
+      {
+        "regionId": "d861af8d-8f00-4d10-bbcd-4ae455a21cc4",
+        "startSeconds": 608.039313,
+        "endSeconds": 608.78896
+      },
+      {
+        "regionId": "703df007-4e12-4e17-aaa2-e252755d4e3d",
+        "startSeconds": 613.061946,
+        "endSeconds": 613.669993
+      },
+      {
+        "regionId": "7b54807f-f842-45dc-8684-8730619a6e4e",
+        "startSeconds": 615.545285,
+        "endSeconds": 616.206086
+      },
+      {
+        "regionId": "b968f33d-988f-4425-9c9d-2f21190079b8",
+        "startSeconds": 618.858731,
+        "endSeconds": 619.632812
+      },
+      {
+        "regionId": "768ff37a-6910-4690-8911-e09e7786c679",
+        "startSeconds": 626.646716,
+        "endSeconds": 629.082237
+      },
+      {
+        "regionId": "d7096cc6-8470-4e3d-943d-92b67b4815f5",
+        "startSeconds": 632.442895,
+        "endSeconds": 633.396335
+      },
+      {
+        "regionId": "1995c7f6-9390-4e3e-bee2-d829c4ea70ba",
+        "startSeconds": 637.984187,
+        "endSeconds": 638.361787
+      },
+      {
+        "regionId": "1b7d58e5-8913-452f-97e8-3d0932c64b22",
+        "startSeconds": 640.882273,
+        "endSeconds": 641.854594
+      },
+      {
+        "regionId": "4677b7da-20e1-426f-8aa9-e68b41b9f52c",
+        "startSeconds": 643.364995,
+        "endSeconds": 644.365636
+      },
+      {
+        "regionId": "aae6d799-b507-4494-b8b7-154bdd00af53",
+        "startSeconds": 648.481475,
+        "endSeconds": 649.264996
+      },
+      {
+        "regionId": "7fa7f58c-0c6b-4be4-91dc-ec286bef7fb1",
+        "startSeconds": 665.341329,
+        "endSeconds": 665.756689
+      },
+      {
+        "regionId": "19485c50-ac29-4ded-9966-eca4fdacd897",
+        "startSeconds": 669.532692,
+        "endSeconds": 670.014133
+      },
+      {
+        "regionId": "834f908d-a2f2-4d19-9ae4-da06488079f0",
+        "startSeconds": 672.043738,
+        "endSeconds": 672.6951
+      },
+      {
+        "regionId": "09b10f06-f0f2-4e2e-85bc-3f8afee8c025",
+        "startSeconds": 676.499418,
+        "endSeconds": 676.980859
+      },
+      {
+        "regionId": "14a1d554-5333-491a-9069-30bee8d8b03b",
+        "startSeconds": 696.512254,
+        "endSeconds": 697.201374
+      },
+      {
+        "regionId": "0185ca16-61ee-4a54-b089-899c768c33cc",
+        "startSeconds": 703.922666,
+        "endSeconds": 704.356907
+      },
+      {
+        "regionId": "d1812cc0-e1f6-4fd0-8558-4b6b42214425",
+        "startSeconds": 708.897514,
+        "endSeconds": 709.605514
+      },
+      {
+        "regionId": "fbbc9133-2716-411d-a994-3ddd3fb9bf48",
+        "startSeconds": 726.142335,
+        "endSeconds": 735.318025
+      },
+      {
+        "regionId": "d1eb20ff-37b8-4b56-bf16-0b96e3fc4525",
+        "startSeconds": 745.839704,
+        "endSeconds": 747.957594
       }
     ],
     "trackSilenceRegions": [
@@ -277,6 +372,12 @@
         "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
         "startSeconds": 475.822149,
         "endSeconds": 476.441367
+      },
+      {
+        "regionId": "beb2bfe8-cd01-438e-9e60-73fc105f4184",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 714.693686,
+        "endSeconds": 717.204729
       },
       {
         "regionId": "96cebd1b-b2ed-469e-ab3d-690cb14bfbf7",
@@ -319,6 +420,12 @@
         "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
         "startSeconds": 577.244873,
         "endSeconds": 578.122316
+      },
+      {
+        "regionId": "81d1c4db-854d-4c44-a595-627a2b77b67f",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 629.412638,
+        "endSeconds": 630.923038
       }
     ],
     "trackProcessing": [
