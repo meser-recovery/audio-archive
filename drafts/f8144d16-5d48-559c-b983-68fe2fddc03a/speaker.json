@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
   "workflow": "speaker",
-  "draftRevision": 8,
-  "sourceSessionRevision": 9,
-  "savedAt": "2026-11-21T14:55:39.394Z",
+  "draftRevision": 9,
+  "sourceSessionRevision": 10,
+  "savedAt": "2026-11-21T15:04:14.750Z",
   "payloadSchema": "speaker/v1",
   "payload": {
     "trackIds": [
@@ -1342,6 +1342,121 @@
         "regionId": "d4ab338f-2295-4177-883b-b765fb496bf0",
         "startSeconds": 2570.733614,
         "endSeconds": 2572.429504
+      },
+      {
+        "regionId": "dd51d927-1864-48dd-a9a5-629748bea505",
+        "startSeconds": 2607.594642,
+        "endSeconds": 2608.239619
+      },
+      {
+        "regionId": "e00011f1-f060-4fe0-b109-a7c6bf2099d5",
+        "startSeconds": 2634.652025,
+        "endSeconds": 2635.378848
+      },
+      {
+        "regionId": "421a5fd4-2a37-4e55-b1c2-9905a56b6cdf",
+        "startSeconds": 2647.257201,
+        "endSeconds": 2648.154307
+      },
+      {
+        "regionId": "aed34024-0a88-43a2-8a34-490d35737443",
+        "startSeconds": 2651.533477,
+        "endSeconds": 2653.86277
+      },
+      {
+        "regionId": "76bd881b-1e0d-41cb-8eb2-1bc69c7d85ee",
+        "startSeconds": 2655.208655,
+        "endSeconds": 2655.963366
+      },
+      {
+        "regionId": "9a26c47e-c850-44e4-b39f-e6a0ef58bf86",
+        "startSeconds": 2657.438363,
+        "endSeconds": 2658.277814
+      },
+      {
+        "regionId": "27c45840-4b40-46f6-9fb8-a4cebd544731",
+        "startSeconds": 2660.239939,
+        "endSeconds": 2660.753672
+      },
+      {
+        "regionId": "6c13df35-ad89-47f4-b52c-1382a6541b81",
+        "startSeconds": 2663.528377,
+        "endSeconds": 2664.365817
+      },
+      {
+        "regionId": "35ede310-7297-4e23-af8d-3a52f4de7776",
+        "startSeconds": 2668.18553,
+        "endSeconds": 2669.689014
+      },
+      {
+        "regionId": "974ef870-17ed-4c04-9c96-573f1c58262f",
+        "startSeconds": 2672.915987,
+        "endSeconds": 2675.173768
+      },
+      {
+        "regionId": "3a23163a-04b8-48eb-a59c-4e9b7eb0c969",
+        "startSeconds": 2680.312518,
+        "endSeconds": 2684.511376
+      },
+      {
+        "regionId": "b4a94b84-26bb-4ccd-a42c-80af41d343b4",
+        "startSeconds": 2690.273315,
+        "endSeconds": 2691.315367
+      },
+      {
+        "regionId": "158cd2cb-bed7-4a9e-9b15-b450aa6afd0d",
+        "startSeconds": 2697.598331,
+        "endSeconds": 2698.86514
+      },
+      {
+        "regionId": "88c77934-398b-4c90-9be2-a2cc58aec994",
+        "startSeconds": 2700.305625,
+        "endSeconds": 2701.933576
+      },
+      {
+        "regionId": "f6bcbdf5-05ed-47a4-b5af-0507e036b1de",
+        "startSeconds": 2708.345856,
+        "endSeconds": 2709.163152
+      },
+      {
+        "regionId": "b40c1cde-2b6d-4b15-bfd5-2a6d3fbcf01c",
+        "startSeconds": 2715.701521,
+        "endSeconds": 2716.140818
+      },
+      {
+        "regionId": "b33a4aba-63ea-44f7-a8e0-4fbdb4864238",
+        "startSeconds": 2718.551842,
+        "endSeconds": 2722.382917
+      },
+      {
+        "regionId": "eebc8b65-c746-4b8a-8b20-65fbf420ddbc",
+        "startSeconds": 2738.614952,
+        "endSeconds": 2739.468996
+      },
+      {
+        "regionId": "7e6928df-a781-4a65-a5fa-1c01d5c885e6",
+        "startSeconds": 2741.252438,
+        "endSeconds": 2741.629222
+      },
+      {
+        "regionId": "004d242a-1702-4c68-be45-d51c3309e85a",
+        "startSeconds": 2755.268792,
+        "endSeconds": 2756.549858
+      },
+      {
+        "regionId": "0039006b-6d7b-4da7-99df-fae410cfde61",
+        "startSeconds": 2778.453552,
+        "endSeconds": 2779.307595
+      },
+      {
+        "regionId": "6d63942d-f742-44f3-adce-a8a8fdb0367d",
+        "startSeconds": 2783.577811,
+        "endSeconds": 2784.130426
+      },
+      {
+        "regionId": "45630424-95ee-4221-845e-4c3661b23cc8",
+        "startSeconds": 2791.515387,
+        "endSeconds": 2791.841934
       }
     ],
     "trackSilenceRegions": [
@@ -1412,6 +1527,18 @@
         "endSeconds": 2042.100912
       },
       {
+        "regionId": "91f9139e-80bb-453d-9995-a4421081f969",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 2749.491441,
+        "endSeconds": 2751.073934
+      },
+      {
+        "regionId": "564aa60f-fb00-41a1-a4f6-735964030dbe",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 2759.915791,
+        "endSeconds": 2764.236246
+      },
+      {
         "regionId": "01af3be2-3f27-4a76-954b-4f2428a91f9f",
         "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
         "startSeconds": 2415.032987,
@@ -1428,6 +1555,42 @@
         "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
         "startSeconds": 2552.131978,
         "endSeconds": 2553.090048
+      },
+      {
+        "regionId": "6a74125a-1220-4c2c-95f4-38a16fb99b0c",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2676.103443,
+        "endSeconds": 2678.381655
+      },
+      {
+        "regionId": "e7c7f953-af29-4bf7-8501-1f2dd029639f",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2691.683151,
+        "endSeconds": 2695.657254
+      },
+      {
+        "regionId": "5b84e254-018c-40d1-ac90-6c532f7f515f",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2709.612665,
+        "endSeconds": 2709.980448
+      },
+      {
+        "regionId": "1bbc4dd4-4dba-49e9-9e76-f239d0a84769",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2714.475577,
+        "endSeconds": 2714.884225
+      },
+      {
+        "regionId": "937fdc99-bb2e-42fb-b0e5-83ced48482b6",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2731.908201,
+        "endSeconds": 2734.093548
+      },
+      {
+        "regionId": "8d9337cb-8349-4268-b8bf-c1ba1110e3b1",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2792.118242,
+        "endSeconds": 2798.121663
       },
       {
         "regionId": "96cebd1b-b2ed-469e-ab3d-690cb14bfbf7",
@@ -1620,6 +1783,12 @@
         "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
         "startSeconds": 2559.356714,
         "endSeconds": 2561.647332
+      },
+      {
+        "regionId": "6b67bbc6-2903-4a78-8567-1c6dbceb2f7e",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2724.191105,
+        "endSeconds": 2725.805266
       }
     ],
     "trackProcessing": [
