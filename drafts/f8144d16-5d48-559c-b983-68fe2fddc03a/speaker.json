@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
   "workflow": "speaker",
-  "draftRevision": 5,
-  "sourceSessionRevision": 6,
-  "savedAt": "2026-11-21T14:24:05.554Z",
+  "draftRevision": 6,
+  "sourceSessionRevision": 7,
+  "savedAt": "2026-11-21T14:34:24.410Z",
   "payloadSchema": "speaker/v1",
   "payload": {
     "trackIds": [
@@ -1167,6 +1167,51 @@
         "regionId": "a3372f16-044e-4147-85d4-90930d325300",
         "startSeconds": 2215.303556,
         "endSeconds": 2216.649167
+      },
+      {
+        "regionId": "d26b9581-dcd7-46dd-8060-6741d276efb8",
+        "startSeconds": 2227.163982,
+        "endSeconds": 2227.687936
+      },
+      {
+        "regionId": "54281eba-9f39-4525-b36f-3201cbafca65",
+        "startSeconds": 2229.641495,
+        "endSeconds": 2229.960926
+      },
+      {
+        "regionId": "d0925fb0-d30d-4893-bfcb-ede0c89417d8",
+        "startSeconds": 2231.277365,
+        "endSeconds": 2231.679072
+      },
+      {
+        "regionId": "d98c611f-d678-4e4c-a2d4-4ef9d63ca21c",
+        "startSeconds": 2238.130593,
+        "endSeconds": 2239.074363
+      },
+      {
+        "regionId": "ea451fc6-53b7-4777-a3b3-1cd08c83fb8a",
+        "startSeconds": 2245.504891,
+        "endSeconds": 2246.45701
+      },
+      {
+        "regionId": "b9722b9d-2e91-488c-8f0d-c8cbab547210",
+        "startSeconds": 2249.697872,
+        "endSeconds": 2250.930646
+      },
+      {
+        "regionId": "7d6823af-793b-475c-aa4e-f1e56df26234",
+        "startSeconds": 2256.034158,
+        "endSeconds": 2263.184379
+      },
+      {
+        "regionId": "1fed0096-b713-4da7-9a70-0b39b3e49ee8",
+        "startSeconds": 2269.979887,
+        "endSeconds": 2270.857329
+      },
+      {
+        "regionId": "acc4099d-9e57-4d00-aa52-755c7514ac0b",
+        "startSeconds": 2311.313081,
+        "endSeconds": 2313.254656
       }
     ],
     "trackSilenceRegions": [
