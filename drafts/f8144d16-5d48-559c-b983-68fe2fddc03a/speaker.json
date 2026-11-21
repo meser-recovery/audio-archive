@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
   "workflow": "speaker",
-  "draftRevision": 12,
-  "sourceSessionRevision": 13,
-  "savedAt": "2026-11-21T18:05:01.141Z",
+  "draftRevision": 13,
+  "sourceSessionRevision": 14,
+  "savedAt": "2026-11-21T18:09:41.380Z",
   "payloadSchema": "speaker/v1",
   "payload": {
     "trackIds": [
@@ -2276,44 +2276,44 @@
     "trackProcessing": [
       {
         "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
         "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
         "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
         "trackId": "62381451-55ea-86ec-b646-2b6e7b867a0d",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
         "trackId": "a22273ab-9394-8e73-82f8-6dc4d67047e3",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
         "trackId": "ec667c90-4c18-828f-9f44-4b8c602b7409",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
         "trackId": "ead1d2e0-2808-8951-9327-ef3c3896e7d7",
-        "enhancement": "off",
-        "leveling": "off",
+        "enhancement": "gentle",
+        "leveling": "on",
         "compression": "off"
       },
       {
