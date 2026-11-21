@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
   "workflow": "speaker",
-  "draftRevision": 14,
-  "sourceSessionRevision": 15,
-  "savedAt": "2026-11-21T19:02:16.331Z",
+  "draftRevision": 15,
+  "sourceSessionRevision": 16,
+  "savedAt": "2026-11-21T19:08:30.006Z",
   "payloadSchema": "speaker/v1",
   "payload": {
     "trackIds": [
@@ -2125,7 +2125,7 @@
       {
         "regionId": "c1675c3c-754c-457d-8248-aec4044973b8",
         "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
-        "startSeconds": 1363.442043,
+        "startSeconds": 1363.573534,
         "endSeconds": 1364.110055
       },
       {
