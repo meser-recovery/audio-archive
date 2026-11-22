@@ -1,0 +1,715 @@
+{
+  "schemaVersion": 1,
+  "sessionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
+  "workflow": "speaker",
+  "draftRevision": 24,
+  "sourceSessionRevision": 25,
+  "savedAt": "2026-11-22T11:19:58.218Z",
+  "payloadSchema": "speaker/v1",
+  "payload": {
+    "trackIds": [
+      "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+      "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+      "c5273f75-a64d-8317-9980-490fd4357e05",
+      "62381451-55ea-86ec-b646-2b6e7b867a0d",
+      "a22273ab-9394-8e73-82f8-6dc4d67047e3",
+      "ec667c90-4c18-828f-9f44-4b8c602b7409",
+      "ead1d2e0-2808-8951-9327-ef3c3896e7d7",
+      "9ef968b3-5839-8f45-99f4-2d1c8133466a",
+      "13c059cb-a897-8228-9545-5309c7ae9531"
+    ],
+    "excludedTrackIds": [
+      "9ef968b3-5839-8f45-99f4-2d1c8133466a",
+      "13c059cb-a897-8228-9545-5309c7ae9531"
+    ],
+    "globalCuts": [
+      {
+        "regionId": "2c990f11-b7e6-404f-87a0-9aaf8dd4a49b",
+        "startSeconds": 38.507297,
+        "endSeconds": 38.833844
+      },
+      {
+        "regionId": "5a43b7dc-5868-427b-b2bf-fd9f16da0221",
+        "startSeconds": 39.8386,
+        "endSeconds": 40.265621
+      },
+      {
+        "regionId": "dced6a30-f0d4-4e3c-890a-f6eeb1890faf",
+        "startSeconds": 76.788524,
+        "endSeconds": 77.215545
+      },
+      {
+        "regionId": "93d7d222-0535-4b4d-9d60-80b12047dd79",
+        "startSeconds": 257.519119,
+        "endSeconds": 258.574113
+      },
+      {
+        "regionId": "f427bd82-126d-4fad-b50a-22af0cb379de",
+        "startSeconds": 726.338529,
+        "endSeconds": 726.966502
+      },
+      {
+        "regionId": "60c64ce0-fa96-4852-b64b-78b6f7038828",
+        "startSeconds": 791.551346,
+        "endSeconds": 792.092805
+      },
+      {
+        "regionId": "0b0616d5-aa05-4583-93fd-372934d9e81a",
+        "startSeconds": 824.478174,
+        "endSeconds": 825.187709
+      },
+      {
+        "regionId": "927ee7ad-2e7e-40eb-a163-054fe88bfa02",
+        "startSeconds": 987.084684,
+        "endSeconds": 987.234509
+      },
+      {
+        "regionId": "84048d1c-5f8d-4757-b20c-7d17ab72678f",
+        "startSeconds": 1005.493748,
+        "endSeconds": 1005.708716
+      },
+      {
+        "regionId": "e83bd49d-4139-421e-8fe4-e1c79cf6a3f5",
+        "startSeconds": 1167.496785,
+        "endSeconds": 1168.256834
+      },
+      {
+        "regionId": "edc365c2-e401-4124-9c93-7cf8bddd9ba3",
+        "startSeconds": 2940.733669,
+        "endSeconds": 2941.087849
+      },
+      {
+        "regionId": "ddd7eef4-e4a6-40fb-9cb7-51b3175e1633",
+        "startSeconds": 3228.31826,
+        "endSeconds": 3228.543525
+      },
+      {
+        "regionId": "10855f92-c34b-42dc-8f89-c130ed3d4c28",
+        "startSeconds": 3387.309342,
+        "endSeconds": 3387.986921
+      }
+    ],
+    "trackSilenceRegions": [
+      {
+        "regionId": "8c0c7437-5d10-4970-872c-503b50ab89ea",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 346.942458,
+        "endSeconds": 348.751019
+      },
+      {
+        "regionId": "dc4c7152-7243-4f72-89e5-93e370f6ccd4",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 475.953206,
+        "endSeconds": 476.380227
+      },
+      {
+        "regionId": "aa21a1f9-9774-473f-bef8-751d2d0fd5e5",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 577.051244,
+        "endSeconds": 577.175842
+      },
+      {
+        "regionId": "ab84c895-4ef0-46af-a9d5-23b9647d5923",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 714.557757,
+        "endSeconds": 717.145006
+      },
+      {
+        "regionId": "73b981de-545b-4329-b20f-ca38cfcd21ef",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 835.278854,
+        "endSeconds": 836.421993
+      },
+      {
+        "regionId": "128dc155-4791-4a00-9a1f-26514d60c22b",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 1385.623506,
+        "endSeconds": 1385.940208
+      },
+      {
+        "regionId": "88e1aa6b-2cb8-460b-830c-586ca975e3b5",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 2040.736056,
+        "endSeconds": 2041.866408
+      },
+      {
+        "regionId": "603e643a-b5ef-4c52-8153-866c9c8a8596",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 2749.641959,
+        "endSeconds": 2750.847668
+      },
+      {
+        "regionId": "78c34be2-0682-44d6-bb44-8a1a436d318b",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 2759.915743,
+        "endSeconds": 2762.050851
+      },
+      {
+        "regionId": "f59b84e6-aa8b-48a2-b612-aa1795dfb911",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 2893.045847,
+        "endSeconds": 2894.352029
+      },
+      {
+        "regionId": "0342e810-d408-459d-8b84-4d8067d96761",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 2898.371056,
+        "endSeconds": 2900.430808
+      },
+      {
+        "regionId": "86b59a74-ff03-45f7-bc3e-ce83574ccd86",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 2939.718168,
+        "endSeconds": 2940.19449
+      },
+      {
+        "regionId": "5567df37-9db2-42a3-9d03-ea288c339a13",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 2983.003956,
+        "endSeconds": 2984.075681
+      },
+      {
+        "regionId": "5768de52-00c2-45bc-942d-876c5ed168ba",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 3269.255664,
+        "endSeconds": 3271.421266
+      },
+      {
+        "regionId": "b7fba16a-4fa4-46b9-b444-d8e735af8cbb",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 3277.20865,
+        "endSeconds": 3278.347457
+      },
+      {
+        "regionId": "269ceb3b-d7b4-4938-a56a-1420039b83b1",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 3368.719889,
+        "endSeconds": 3370.005627
+      },
+      {
+        "regionId": "2a99f4d7-e966-4a78-b259-2289db3eaf6b",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 3392.508488,
+        "endSeconds": 3392.863197
+      },
+      {
+        "regionId": "c137183c-9f07-4d10-88d8-d0354529d69d",
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "startSeconds": 3411.177468,
+        "endSeconds": 3413.072776
+      },
+      {
+        "regionId": "60eeb734-ce75-49f6-83fa-babfc6626ba6",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2415.007771,
+        "endSeconds": 2415.535268
+      },
+      {
+        "regionId": "145c247a-e027-474c-830f-1662e4ab795b",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2552.232404,
+        "endSeconds": 2553.03621
+      },
+      {
+        "regionId": "2e9a45d2-ba0f-433e-bc4a-986f6671e9b8",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2673.004149,
+        "endSeconds": 2678.404716
+      },
+      {
+        "regionId": "066dfd30-f709-47af-b54d-b306cd60fb4e",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2697.595567,
+        "endSeconds": 2697.922112
+      },
+      {
+        "regionId": "61ede476-2dea-4d48-90da-a5929421020a",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2708.296225,
+        "endSeconds": 2715.706305
+      },
+      {
+        "regionId": "ab66eb2e-6d8d-4232-8798-87b0459ba9f1",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2731.832648,
+        "endSeconds": 2734.017995
+      },
+      {
+        "regionId": "238d869a-dc9d-4913-b473-ce8b0da2f62e",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2755.268752,
+        "endSeconds": 2755.554806
+      },
+      {
+        "regionId": "dd6f4adb-61ac-4e4c-9f12-abb4a0409a32",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2791.778505,
+        "endSeconds": 2798.400821
+      },
+      {
+        "regionId": "991e7c60-1009-4904-81ea-1c9fbd75953f",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2831.400507,
+        "endSeconds": 2831.641485
+      },
+      {
+        "regionId": "fa99c2df-d902-40fd-bf56-ddb909318e87",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2855.375045,
+        "endSeconds": 2856.46429
+      },
+      {
+        "regionId": "e8184526-2720-4846-b35d-1311b364491c",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2873.430224,
+        "endSeconds": 2877.462491
+      },
+      {
+        "regionId": "b76e4538-c06e-4fee-9ce5-b2c738010ed0",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2902.504736,
+        "endSeconds": 2902.753933
+      },
+      {
+        "regionId": "f82fed7d-e550-41d6-90f5-eab7f63ec4aa",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2924.467305,
+        "endSeconds": 2924.619103
+      },
+      {
+        "regionId": "c02333cc-bb1b-41cb-b438-390c3b35ddd3",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 2937.431821,
+        "endSeconds": 2938.015316
+      },
+      {
+        "regionId": "4adc456e-7aa9-47cf-8194-f3401fd3f91a",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 3082.934456,
+        "endSeconds": 3083.389918
+      },
+      {
+        "regionId": "a054ab72-7c28-44be-bd5e-56f0cffbec18",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 3095.108623,
+        "endSeconds": 3097.275142
+      },
+      {
+        "regionId": "5c30207f-53fb-4816-9d80-87349a8c94f6",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 3104.53674,
+        "endSeconds": 3104.76509
+      },
+      {
+        "regionId": "3a31357a-9c39-490b-b9f0-2417f3d7a150",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 3152.241451,
+        "endSeconds": 3153.336991
+      },
+      {
+        "regionId": "aebfbfe4-ef83-4afb-82da-46e68fb445a3",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 3239.326083,
+        "endSeconds": 3240.221456
+      },
+      {
+        "regionId": "0cc39796-60d9-48b0-a25c-abb62464ce9c",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 3271.813314,
+        "endSeconds": 3272.98946
+      },
+      {
+        "regionId": "4817c761-8bdf-4f82-a298-e792219f91ca",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 3304.708056,
+        "endSeconds": 3306.369595
+      },
+      {
+        "regionId": "cb05bf8c-59de-49ce-ac67-a4b2a86f6b39",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 3324.642742,
+        "endSeconds": 3325.901667
+      },
+      {
+        "regionId": "4ebea35c-e774-4203-b194-77840aa7e946",
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "startSeconds": 3414.222431,
+        "endSeconds": 3414.59389
+      },
+      {
+        "regionId": "392d6cfe-1822-4936-a183-81c621ca5119",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 174.249915,
+        "endSeconds": 177.063233
+      },
+      {
+        "regionId": "805371c1-f095-4985-b665-288234e4220b",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 205.522965,
+        "endSeconds": 205.975104
+      },
+      {
+        "regionId": "21138099-eca6-4da8-a675-f81aca90fd91",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 313.30823,
+        "endSeconds": 313.936203
+      },
+      {
+        "regionId": "8b530813-afd0-4145-9cd2-5178cebdb3a6",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 501.398668,
+        "endSeconds": 501.926165
+      },
+      {
+        "regionId": "aa1ac9e5-73e6-43e6-8a5b-b0401d6beced",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 547.165331,
+        "endSeconds": 547.843541
+      },
+      {
+        "regionId": "cfaf8d62-bf80-4ef5-bb83-96871e87c634",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 577.659694,
+        "endSeconds": 577.986239
+      },
+      {
+        "regionId": "b0ddfe34-55f4-4df9-97c1-216890194a11",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 629.404635,
+        "endSeconds": 630.484749
+      },
+      {
+        "regionId": "9169824a-f4ad-401c-8eca-2a2b5a13068d",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 731.211599,
+        "endSeconds": 731.688857
+      },
+      {
+        "regionId": "157b4e3b-aac4-4fe7-acf6-0b2ba4214e86",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 772.557333,
+        "endSeconds": 772.934117
+      },
+      {
+        "regionId": "6394da58-0477-412a-b095-af774f2aa8e4",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 776.174457,
+        "endSeconds": 776.551241
+      },
+      {
+        "regionId": "a015d140-2a70-4333-9032-ef80ae11346b",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 944.822974,
+        "endSeconds": 945.769017
+      },
+      {
+        "regionId": "e0d9e25a-c89c-4c8f-8b13-2922409cab71",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 998.57737,
+        "endSeconds": 999.883553
+      },
+      {
+        "regionId": "3d6f78e4-6dc6-4173-85bc-0cd594803df8",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1177.105112,
+        "endSeconds": 1177.633716
+      },
+      {
+        "regionId": "e14b1ab7-4fc3-4054-a39e-3623dd63f876",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1214.987917,
+        "endSeconds": 1217.642348
+      },
+      {
+        "regionId": "5dff1780-fb1e-4ad0-9b15-c112163bd176",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1268.879072,
+        "endSeconds": 1269.558111
+      },
+      {
+        "regionId": "4eab4e15-065a-4adb-8257-27879f8eebb7",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1289.605108,
+        "endSeconds": 1290.032131
+      },
+      {
+        "regionId": "0dc53bd2-4a68-4f1f-9861-64d8e8c4da81",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1319.906335,
+        "endSeconds": 1321.593503
+      },
+      {
+        "regionId": "e1cfb683-4920-42fb-820d-f891a6ea621f",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1426.352508,
+        "endSeconds": 1426.804649
+      },
+      {
+        "regionId": "126ce88d-9f92-4b2a-90da-5a3774e5cd1f",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1443.2073,
+        "endSeconds": 1443.810154
+      },
+      {
+        "regionId": "b8eac3f3-fff1-47ea-b588-cc9097c87321",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1478.650089,
+        "endSeconds": 1479.202706
+      },
+      {
+        "regionId": "a5db3373-8db3-4379-984c-7426a691fbe0",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1488.320871,
+        "endSeconds": 1488.923725
+      },
+      {
+        "regionId": "43299c7b-993b-4eee-bdc4-25203d85734b",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1548.932814,
+        "endSeconds": 1549.384956
+      },
+      {
+        "regionId": "ee5d6ce7-dfd4-4850-8ef7-bc89647a63d2",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1598.165888,
+        "endSeconds": 1598.542672
+      },
+      {
+        "regionId": "2c5cc021-4e64-4455-a836-16c2644668df",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1632.428089,
+        "endSeconds": 1632.880228
+      },
+      {
+        "regionId": "75aebedf-3622-4b5c-be61-99050b59cad4",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1639.888406,
+        "endSeconds": 1640.240071
+      },
+      {
+        "regionId": "0e82fe80-3434-4992-b522-f84b1b3392f0",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1677.843087,
+        "endSeconds": 1681.962589
+      },
+      {
+        "regionId": "cba1698e-415b-4092-848a-7db536491f5d",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1743.52905,
+        "endSeconds": 1743.855597
+      },
+      {
+        "regionId": "ae723ae7-b7db-412c-85c3-3f3dd9656a4c",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1933.729477,
+        "endSeconds": 1934.206737
+      },
+      {
+        "regionId": "5ff65d09-4061-49a2-a067-bed9c21831cc",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1947.193216,
+        "endSeconds": 1947.670475
+      },
+      {
+        "regionId": "5261288d-9f04-4451-9327-eeae724c62f2",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 1963.143727,
+        "endSeconds": 1964.19872
+      },
+      {
+        "regionId": "dc281ee3-cf29-401e-a892-2367a040eee6",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2003.082802,
+        "endSeconds": 2003.58518
+      },
+      {
+        "regionId": "8603cb57-501e-4aa5-b5da-6d3db46a22e5",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2017.676893,
+        "endSeconds": 2022.273654
+      },
+      {
+        "regionId": "137feb26-217c-4b68-8678-50fd4af3611b",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2034.406089,
+        "endSeconds": 2035.310371
+      },
+      {
+        "regionId": "28eab658-2831-4000-b751-04a0686f464f",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2053.848129,
+        "endSeconds": 2054.476102
+      },
+      {
+        "regionId": "171bbe99-9319-43c5-9018-5b510272df5e",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2114.007809,
+        "endSeconds": 2115.313993
+      },
+      {
+        "regionId": "cf1be0c9-23f9-438d-bbe7-c346d3b1b57a",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2143.246226,
+        "endSeconds": 2143.798842
+      },
+      {
+        "regionId": "1786ba06-b31b-44de-b7c4-4a31978e25b0",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2391.496466,
+        "endSeconds": 2392.953363
+      },
+      {
+        "regionId": "741db0bd-5bc6-467c-b2cc-80e432f48aaf",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2559.240582,
+        "endSeconds": 2561.576641
+      },
+      {
+        "regionId": "ffa06961-d168-41be-95ba-c2a3d27d8343",
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "startSeconds": 2724.196499,
+        "endSeconds": 2725.804108
+      }
+    ],
+    "trackProcessing": [
+      {
+        "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "62381451-55ea-86ec-b646-2b6e7b867a0d",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "a22273ab-9394-8e73-82f8-6dc4d67047e3",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "ec667c90-4c18-828f-9f44-4b8c602b7409",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "ead1d2e0-2808-8951-9327-ef3c3896e7d7",
+        "enhancement": "gentle",
+        "leveling": "on",
+        "compression": "off"
+      },
+      {
+        "trackId": "9ef968b3-5839-8f45-99f4-2d1c8133466a",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      },
+      {
+        "trackId": "13c059cb-a897-8228-9545-5309c7ae9531",
+        "enhancement": "off",
+        "leveling": "off",
+        "compression": "off"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "trackId": "d8d06e8e-6ce1-8726-8167-244c45de2fb3",
+      "blobId": "5a300e1b-c5c5-8716-b9dd-24f049e932e0",
+      "ordinal": 1,
+      "originalName": "Audio only - עידית לוי.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 29011840,
+      "sha256": "5b6e186b54bf5eae65b465153bdd115d0e63756ae860b098108024952f259663"
+    },
+    {
+      "trackId": "0fd7c8a4-272f-88e7-ba5b-7497b1f11c79",
+      "blobId": "b2de4913-87dd-8a23-b1ad-8df01e7c9544",
+      "ordinal": 3,
+      "originalName": "Audio only - AF.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 11412163,
+      "sha256": "ab19c2858ab7169742bf9030efc60b35757a1a224393d630ea17a6c0b1d3554a"
+    },
+    {
+      "trackId": "c5273f75-a64d-8317-9980-490fd4357e05",
+      "blobId": "14aedbbf-3148-8686-bffc-58fd46b779ac",
+      "ordinal": 2,
+      "originalName": "Audio only - Zhenya - ז'ניה.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 20670976,
+      "sha256": "b5f4bf2fc8d5836dac522a4d5de481e170fd659ad12fd4b9e923e7ec1ee7dce4"
+    },
+    {
+      "trackId": "62381451-55ea-86ec-b646-2b6e7b867a0d",
+      "blobId": "29030140-8479-8b3f-8cc8-9584ed1344d7",
+      "ordinal": 4,
+      "originalName": "Audio only - Мирра.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2544850,
+      "sha256": "6f455df9277e4b4d78d3ab58da102eedcb49ecdd2ba94673fcfadd204c496cd2"
+    },
+    {
+      "trackId": "a22273ab-9394-8e73-82f8-6dc4d67047e3",
+      "blobId": "2807868e-6c97-8441-8395-e4f856f8d0ce",
+      "ordinal": 5,
+      "originalName": "Audio only - Nata.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2178604,
+      "sha256": "c41b8ca3d4d8cfe9b2aff549daa30b96c10535bd1ad79499f7ba0647070be3f3"
+    },
+    {
+      "trackId": "ec667c90-4c18-828f-9f44-4b8c602b7409",
+      "blobId": "23f75521-aef4-81d9-ae15-2b02ce49721e",
+      "ordinal": 7,
+      "originalName": "Audio only - Vladislav Zh.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2019620,
+      "sha256": "b32a6204bb78c9b71162ded8ae1d6667563958edc2074888daf6951b1b44076f"
+    },
+    {
+      "trackId": "ead1d2e0-2808-8951-9327-ef3c3896e7d7",
+      "blobId": "3503da73-3a3b-8f9e-a39c-588234a281e0",
+      "ordinal": 9,
+      "originalName": "Audio only - Danik* гр Мэсэр.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2004353,
+      "sha256": "75145f7718ec3d3e78b4d4b6937aa258ee937c917bcd76331605131cf57085ad"
+    },
+    {
+      "trackId": "9ef968b3-5839-8f45-99f4-2d1c8133466a",
+      "blobId": "32b4b2fd-641a-8da1-ac44-9bf81ddbcc49",
+      "ordinal": 8,
+      "originalName": "Audio only - Katrin -.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2006641,
+      "sha256": "bd7fa249fdf37ccea01c2c67f3ea4b342744d3f0be12b7ee2cff47bea4062e36"
+    },
+    {
+      "trackId": "13c059cb-a897-8228-9545-5309c7ae9531",
+      "blobId": "5f2de548-fb97-8bcc-ab82-b4f3e3fc24e0",
+      "ordinal": 6,
+      "originalName": "Audio only - Станислав я.m4a",
+      "mediaType": "audio/mp4",
+      "sizeBytes": 2062332,
+      "sha256": "a66d5523794af8b7bd4babfc99082757f5cd96fc1fb909521804c2f442628984"
+    }
+  ],
+  "stateFingerprint": "4d74d159b90696ec7414305173ef051d227087509c9572065d225dc903fe279f"
+}
