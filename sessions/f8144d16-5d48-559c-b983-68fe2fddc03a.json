@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 21,
+  "revision": 22,
   "id": "f8144d16-5d48-559c-b983-68fe2fddc03a",
   "title": "Zoom · 16.11.2026, 20:33 МСК",
   "recordedAt": "2026-11-16T17:33:41Z",
   "createdAt": "2026-11-18T16:25:52.024Z",
-  "updatedAt": "2026-11-22T10:42:29.143Z",
+  "updatedAt": "2026-11-22T10:57:58.751Z",
   "origin": {
     "kind": "zoom_cloud",
     "externalId": "7896f438a305ea32840f72f6b9572eff37687fe1f18834eb8e85f1e1437314c6"
@@ -222,7 +222,7 @@
       "status": "in_progress",
       "currentDraft": {
         "path": "drafts/f8144d16-5d48-559c-b983-68fe2fddc03a/speaker.json",
-        "revision": 20
+        "revision": 21
       },
       "outputs": [],
       "deletedVersions": [],
