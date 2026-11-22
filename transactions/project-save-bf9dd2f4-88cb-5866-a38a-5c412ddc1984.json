@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "kind": "speaker_project_save",
+  "transactionId": "bf9dd2f4-88cb-5866-a38a-5c412ddc1984",
+  "idempotencyHash": "95a8c0886d167779251d163d55b7b2b37588a8295a8e85bc6c5c576a0c622a0f",
+  "requestFingerprint": "1d01b058e560b0872100188187a7589b4ffb4a72a665c4881756fe7ce95bf381",
+  "revision": 1,
+  "state": "complete",
+  "sessionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
+  "workflow": "speaker",
+  "expectedSourceSessionRevision": 16,
+  "expectedDraftRevision": 15,
+  "savedSourceSessionRevision": 17,
+  "savedDraftRevision": 16,
+  "stateFingerprint": "0955e017165f649a40eb49a56d33ef0a6fbf59ad1eb583841d625ac5ae187fdc",
+  "createdAt": "2026-11-22T10:17:40.837Z",
+  "updatedAt": "2026-11-22T10:17:40.837Z"
+}
