@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionId": "f8144d16-5d48-559c-b983-68fe2fddc03a",
   "workflow": "speaker",
-  "draftRevision": 25,
-  "sourceSessionRevision": 26,
-  "savedAt": "2026-11-22T11:22:50.852Z",
+  "draftRevision": 26,
+  "sourceSessionRevision": 27,
+  "savedAt": "2026-11-22T11:26:04.285Z",
   "payloadSchema": "speaker/v1",
   "payload": {
     "trackIds": [
@@ -90,7 +90,7 @@
       },
       {
         "regionId": "7a629b51-9697-455e-bbd0-d5529499b394",
-        "startSeconds": 3442.243352,
+        "startSeconds": 3442.315263,
         "endSeconds": 3447.594667
       }
     ],
@@ -585,7 +585,7 @@
         "regionId": "81cb8c4b-523b-4f2e-84a4-5eb2a8b20452",
         "trackId": "62381451-55ea-86ec-b646-2b6e7b867a0d",
         "startSeconds": 3423.731108,
-        "endSeconds": 3441.795241
+        "endSeconds": 3441.291899
       }
     ],
     "trackProcessing": [
