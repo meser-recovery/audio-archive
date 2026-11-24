@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "id": "6060c2f2cf110233ff52c4214a826314833698a1faa620be9f1dbe68b4bbfdb0",
+  "revision": 1,
+  "connectionId": "603c0548-ab43-46ff-8dfd-68a60f90c60d",
+  "connectionRevision": 1,
+  "occurrenceUuid": "JRXO8cE2Qou9PMOj9Mc2lA==",
+  "recordedAt": "2026-11-23T17:40:15Z",
+  "title": "Zoom · 23.11.2026, 20:40 МСК",
+  "files": [
+    {
+      "id": "fe572bbd-3de2-4cdd-9f7c-f73c442083fe",
+      "name": "Audio only - Zhenya - ז'ניה.m4a",
+      "sizeBytes": 23133144,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    },
+    {
+      "id": "b7607b30-63c6-46d1-a652-cc94df5631ef",
+      "name": "Audio only - Doc     (MA.m4a",
+      "sizeBytes": 22156613,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    },
+    {
+      "id": "69aef34c-b334-4880-a64f-2e50f2638ffd",
+      "name": "Audio only - Vladislav Zh.m4a",
+      "sizeBytes": 4409167,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    },
+    {
+      "id": "9c7b7cf5-4c38-40e0-bd92-0714ead54720",
+      "name": "Audio only - Гульфия.m4a",
+      "sizeBytes": 1638235,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    },
+    {
+      "id": "ecf481f7-c73b-4187-ad06-bff343ee9fc6",
+      "name": "Audio only - Nata.m4a",
+      "sizeBytes": 1608233,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    },
+    {
+      "id": "3ba6545d-8435-4f7c-93ed-27463c4b7768",
+      "name": "Audio only - Danik* гр Мэсэр.m4a",
+      "sizeBytes": 1593022,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    },
+    {
+      "id": "203d5219-8652-4f65-bf66-a77e4d84c62b",
+      "name": "Audio only - AF.m4a",
+      "sizeBytes": 1569170,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    },
+    {
+      "id": "53cffb23-5802-4441-9ff0-d4840bb3544c",
+      "name": "Audio only - Danik* гр Мэсэр.m4a",
+      "sizeBytes": 1564981,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    },
+    {
+      "id": "2e5dceea-d212-468f-b2fd-e5030986a91d",
+      "name": "Audio only - Нина Ситник.m4a",
+      "sizeBytes": 1562524,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    },
+    {
+      "id": "73d7c984-7f89-424a-aeee-ef42f3b5ef89",
+      "name": "Audio only - Андрей.m4a",
+      "sizeBytes": 1556637,
+      "startTime": "2026-11-23T18:28:50Z",
+      "endTime": "2026-11-23T19:13:40Z"
+    }
+  ],
+  "idempotencyKey": "zoom:6060c2f2cf110233ff52c4214a826314833698a1faa620be9f1dbe68b4bbfdb0",
+  "transactionId": "a7a48eea-634c-520c-a8d5-4c40c60bc33c",
+  "state": "reserved",
+  "plan": null
+}
